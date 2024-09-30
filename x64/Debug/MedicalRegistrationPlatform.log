@@ -1,0 +1,991 @@
+﻿ITKCommon-5.0.lib(itkOutputWindow.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+ITKCommon-5.0.lib(itkOutputWindow.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+ITKCommon-5.0.lib(itkExceptionObject.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+ITKCommon-5.0.lib(itkExceptionObject.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+ITKCommon-5.0.lib(itkTimeStamp.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+ITKCommon-5.0.lib(itkTimeStamp.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+ITKCommon-5.0.lib(itkIndent.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+ITKCommon-5.0.lib(itkIndent.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+ITKCommon-5.0.lib(itkLightObject.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+ITKCommon-5.0.lib(itkLightObject.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+ITKCommon-5.0.lib(itkMetaDataDictionary.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+ITKCommon-5.0.lib(itkMetaDataDictionary.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+ITKCommon-5.0.lib(itkObject.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+ITKCommon-5.0.lib(itkObject.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+ITKCommon-5.0.lib(itkRegion.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+ITKCommon-5.0.lib(itkRegion.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+ITKCommon-5.0.lib(itkObjectFactoryBase.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+ITKCommon-5.0.lib(itkObjectFactoryBase.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+ITKCommon-5.0.lib(itkRealTimeStamp.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+ITKCommon-5.0.lib(itkRealTimeStamp.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+ITKCommon-5.0.lib(itkDataObject.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+ITKCommon-5.0.lib(itkDataObject.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+ITKCommon-5.0.lib(itkImageIORegion.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+ITKCommon-5.0.lib(itkImageIORegion.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+ITKCommon-5.0.lib(itkProcessObject.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+ITKCommon-5.0.lib(itkProcessObject.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+ITKCommon-5.0.lib(itkImageSourceCommon.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+ITKCommon-5.0.lib(itkImageSourceCommon.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+ITKCommon-5.0.lib(itkArrayOutputSpecialization.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+ITKCommon-5.0.lib(itkArrayOutputSpecialization.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+ITKCommon-5.0.lib(itkProgressReporter.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+ITKCommon-5.0.lib(itkProgressReporter.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+ITKCommon-5.0.lib(itkMetaDataObject.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+ITKCommon-5.0.lib(itkMetaDataObject.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+ITKCommon-5.0.lib(itkSingleton.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+ITKCommon-5.0.lib(itkSingleton.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+ITKCommon-5.0.lib(itkEventObject.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+ITKCommon-5.0.lib(itkEventObject.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+ITKCommon-5.0.lib(itkDynamicLoader.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+ITKCommon-5.0.lib(itkDynamicLoader.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+ITKCommon-5.0.lib(itkDirectory.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+ITKCommon-5.0.lib(itkDirectory.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+ITKCommon-5.0.lib(itkVersion.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+ITKCommon-5.0.lib(itkVersion.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+ITKCommon-5.0.lib(itkRealTimeInterval.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+ITKCommon-5.0.lib(itkRealTimeInterval.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+ITKCommon-5.0.lib(itkMultiThreaderBase.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+ITKCommon-5.0.lib(itkMultiThreaderBase.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+ITKCommon-5.0.lib(itkImageRegionSplitterSlowDimension.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+ITKCommon-5.0.lib(itkImageRegionSplitterSlowDimension.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+ITKCommon-5.0.lib(itkNumberToString.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+ITKCommon-5.0.lib(itkNumberToString.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+ITKCommon-5.0.lib(itkMetaDataObjectBase.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+ITKCommon-5.0.lib(itkMetaDataObjectBase.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+ITKCommon-5.0.lib(itkPlatformMultiThreader.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+ITKCommon-5.0.lib(itkPlatformMultiThreader.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+ITKCommon-5.0.lib(itkPoolMultiThreader.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+ITKCommon-5.0.lib(itkPoolMultiThreader.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+ITKCommon-5.0.lib(itkImageRegionSplitterBase.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+ITKCommon-5.0.lib(itkImageRegionSplitterBase.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+ITKCommon-5.0.lib(itkThreadPool.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+ITKCommon-5.0.lib(itkThreadPool.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+ITKIOGDCM-5.0.lib(itkGDCMImageIO.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+ITKIOGDCM-5.0.lib(itkGDCMImageIO.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+ITKIOGDCM-5.0.lib(itkGDCMSeriesFileNames.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+ITKIOGDCM-5.0.lib(itkGDCMSeriesFileNames.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+ITKIOImageBase-5.0.lib(itkImageFileReaderException.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+ITKIOImageBase-5.0.lib(itkImageFileReaderException.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+ITKIOImageBase-5.0.lib(itkImageIOBase.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+ITKIOImageBase-5.0.lib(itkImageIOBase.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+ITKIOImageBase-5.0.lib(itkImageIOFactory.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+ITKIOImageBase-5.0.lib(itkImageIOFactory.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+ITKIOImageBase-5.0.lib(itkIOCommon.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+ITKIOImageBase-5.0.lib(itkIOCommon.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itksys-5.0.lib(SystemTools.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itksys-5.0.lib(SystemTools.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itksys-5.0.lib(DynamicLoader.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itksys-5.0.lib(DynamicLoader.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itksys-5.0.lib(Directory.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itksys-5.0.lib(Directory.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itksys-5.0.lib(RegularExpression.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itksys-5.0.lib(RegularExpression.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itksys-5.0.lib(EncodingCXX.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itksys-5.0.lib(EncodingCXX.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_matrix+double-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_matrix+double-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_c_vector+double-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_c_vector+double-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_vector+double-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_vector+double-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_vector_fixed+double.allsizes-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_vector_fixed+double.allsizes-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_matrix+float-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_matrix+float-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_vector+char-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_vector+char-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_vector+int-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_vector+int-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_vector+float-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_vector+float-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_vector+uint-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_vector+uint-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_vector_ref+alltypes.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_vector_ref+alltypes.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_c_vector+float-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_c_vector+float-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_c_vector+char-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_c_vector+char-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_matrix+char-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_matrix+char-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_c_vector+int-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_c_vector+int-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_matrix+int-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_matrix+int-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_c_vector+uint-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_c_vector+uint-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_matrix+uint-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_matrix+uint-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_vector+complex+double--.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_vector+complex+double--.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_vector+complex+float--.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_vector+complex+float--.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_vector+long_double-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_vector+long_double-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_vector+sshort-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_vector+sshort-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_vector+ushort-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_vector+ushort-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_vector+uchar-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_vector+uchar-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_vector+schar-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_vector+schar-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_vector+ulong-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_vector+ulong-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_vector+long-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_vector+long-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_vector+ulonglong-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_vector+ulonglong-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_vector+longlong-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_vector+longlong-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_vector+vnl_bignum-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_vector+vnl_bignum-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_vector+vnl_rational-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_vector+vnl_rational-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_c_vector+double_complex-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_c_vector+double_complex-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_matrix+complex+double--.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_matrix+complex+double--.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_c_vector+float_complex-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_c_vector+float_complex-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_matrix+complex+float--.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_matrix+complex+float--.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_c_vector+long_double-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_c_vector+long_double-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_matrix+long_double-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_matrix+long_double-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_c_vector+sshort-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_c_vector+sshort-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_matrix+sshort-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_matrix+sshort-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_c_vector+ushort-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_c_vector+ushort-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_matrix+ushort-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_matrix+ushort-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_c_vector+uchar-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_c_vector+uchar-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_matrix+uchar-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_matrix+uchar-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_c_vector+schar-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_c_vector+schar-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_matrix+schar-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_matrix+schar-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_c_vector+ulong-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_c_vector+ulong-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_matrix+ulong-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_matrix+ulong-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_c_vector+long-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_c_vector+long-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_matrix+long-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_matrix+long-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_c_vector+ulonglong-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_c_vector+ulonglong-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_matrix+ulonglong-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_matrix+ulonglong-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_c_vector+longlong-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_c_vector+longlong-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_matrix+longlong-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_matrix+longlong-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_bignum.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_bignum.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_c_vector+vnl_bignum-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_c_vector+vnl_bignum-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_matrix+vnl_bignum-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_matrix+vnl_bignum-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_rational.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_rational.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_c_vector+vnl_rational-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_c_vector+vnl_rational-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_matrix+vnl_rational-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_matrix+vnl_rational-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl_algo-5.0.lib(vnl_svd_fixed+double.allsizes-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl_algo-5.0.lib(vnl_svd_fixed+double.allsizes-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl_algo-5.0.lib(vnl_svd+double-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl_algo-5.0.lib(vnl_svd+double-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl_algo-5.0.lib(vnl_determinant+double-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl_algo-5.0.lib(vnl_determinant+double-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl_algo-5.0.lib(vnl_qr+double-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl_algo-5.0.lib(vnl_qr+double-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+ITKCommon-5.0.lib(itkLightProcessObject.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+ITKCommon-5.0.lib(itkLightProcessObject.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmDICT-5.0.lib(gdcmDicts.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmDICT-5.0.lib(gdcmDicts.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmDICT-5.0.lib(gdcmGlobal.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmDICT-5.0.lib(gdcmGlobal.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmDICT-5.0.lib(gdcmDefaultDicts.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmDICT-5.0.lib(gdcmDefaultDicts.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmDICT-5.0.lib(gdcmPrivateDefaultDicts.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmDICT-5.0.lib(gdcmPrivateDefaultDicts.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmDICT-5.0.lib(gdcmCSAHeaderDefaultDicts.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmDICT-5.0.lib(gdcmCSAHeaderDefaultDicts.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmDSED-5.0.lib(gdcmTag.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmDSED-5.0.lib(gdcmTag.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmDSED-5.0.lib(gdcmVR.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmDSED-5.0.lib(gdcmVR.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmDSED-5.0.lib(gdcmValue.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmDSED-5.0.lib(gdcmValue.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmDSED-5.0.lib(gdcmByteValue.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmDSED-5.0.lib(gdcmByteValue.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmDSED-5.0.lib(gdcmVM.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmDSED-5.0.lib(gdcmVM.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmDSED-5.0.lib(gdcmMediaStorage.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmDSED-5.0.lib(gdcmMediaStorage.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmDSED-5.0.lib(gdcmDataSet.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmDSED-5.0.lib(gdcmDataSet.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmDSED-5.0.lib(gdcmFileMetaInformation.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmDSED-5.0.lib(gdcmFileMetaInformation.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmDSED-5.0.lib(gdcmFile.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmDSED-5.0.lib(gdcmFile.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmDSED-5.0.lib(gdcmReader.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmDSED-5.0.lib(gdcmReader.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmDSED-5.0.lib(gdcmWriter.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmDSED-5.0.lib(gdcmWriter.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmDSED-5.0.lib(gdcmPrivateTag.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmDSED-5.0.lib(gdcmPrivateTag.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmDSED-5.0.lib(gdcmDataElement.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmDSED-5.0.lib(gdcmDataElement.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmDSED-5.0.lib(gdcmPreamble.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmDSED-5.0.lib(gdcmPreamble.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmDSED-5.0.lib(gdcmTransferSyntax.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmDSED-5.0.lib(gdcmTransferSyntax.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmDSED-5.0.lib(gdcmExplicitDataElement.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmDSED-5.0.lib(gdcmExplicitDataElement.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmDSED-5.0.lib(gdcmByteSwapFilter.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmDSED-5.0.lib(gdcmByteSwapFilter.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmDSED-5.0.lib(gdcmSequenceOfItems.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmDSED-5.0.lib(gdcmSequenceOfItems.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmDSED-5.0.lib(gdcmSequenceOfFragments.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmDSED-5.0.lib(gdcmSequenceOfFragments.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmDSED-5.0.lib(gdcmImplicitDataElement.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmDSED-5.0.lib(gdcmImplicitDataElement.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmDSED-5.0.lib(gdcmUNExplicitDataElement.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmDSED-5.0.lib(gdcmUNExplicitDataElement.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmDSED-5.0.lib(gdcmCP246ExplicitDataElement.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmDSED-5.0.lib(gdcmCP246ExplicitDataElement.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmDSED-5.0.lib(gdcmExplicitImplicitDataElement.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmDSED-5.0.lib(gdcmExplicitImplicitDataElement.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmDSED-5.0.lib(gdcmVR16ExplicitDataElement.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmDSED-5.0.lib(gdcmVR16ExplicitDataElement.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmDSED-5.0.lib(gdcmFragment.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmDSED-5.0.lib(gdcmFragment.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmIOD-5.0.lib(gdcmDefs.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmIOD-5.0.lib(gdcmDefs.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmIOD-5.0.lib(gdcmType.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmIOD-5.0.lib(gdcmType.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmIOD-5.0.lib(gdcmModule.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmIOD-5.0.lib(gdcmModule.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmIOD-5.0.lib(gdcmIODEntry.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmIOD-5.0.lib(gdcmIODEntry.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmIOD-5.0.lib(gdcmTableReader.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmIOD-5.0.lib(gdcmTableReader.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmIOD-5.0.lib(gdcmMacro.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmIOD-5.0.lib(gdcmMacro.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmPixelFormat.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmPixelFormat.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmImageHelper.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmImageHelper.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmFileExplicitFilter.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmFileExplicitFilter.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmCurve.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmCurve.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmOverlay.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmOverlay.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmBitmap.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmBitmap.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmBitmapToBitmapFilter.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmBitmapToBitmapFilter.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmImageToImageFilter.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmImageToImageFilter.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmImageChangeTransferSyntax.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmImageChangeTransferSyntax.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmDataSetHelper.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmDataSetHelper.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmStringFilter.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmStringFilter.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmImageApplyLookupTable.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmImageApplyLookupTable.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmImageChangePlanarConfiguration.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmImageChangePlanarConfiguration.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmRescaler.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmRescaler.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmPixmap.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmPixmap.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmImage.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmImage.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmImageReader.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmImageReader.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmPixmapWriter.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmPixmapWriter.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmImageWriter.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmImageWriter.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmUIDGenerator.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmUIDGenerator.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmSerieHelper.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmSerieHelper.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmPhotometricInterpretation.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmPhotometricInterpretation.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmLookupTable.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmLookupTable.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmDirectionCosines.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmDirectionCosines.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmSegmentedPaletteColorLookupTable.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmSegmentedPaletteColorLookupTable.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmImageCodec.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmImageCodec.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmRAWCodec.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmRAWCodec.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmJPEGCodec.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmJPEGCodec.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmPVRGCodec.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmPVRGCodec.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmKAKADUCodec.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmKAKADUCodec.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmJPEGLSCodec.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmJPEGLSCodec.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmJPEG2000Codec.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmJPEG2000Codec.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmRLECodec.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmRLECodec.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmPixmapToPixmapFilter.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmPixmapToPixmapFilter.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmPixmapReader.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmPixmapReader.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmSorter.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmSorter.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmIPPSorter.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmIPPSorter.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmJPEG8Codec.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmJPEG8Codec.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmJPEG12Codec.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmJPEG12Codec.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmJPEG16Codec.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmJPEG16Codec.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(info.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(info.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(rle.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(rle.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmScanner.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(gdcmScanner.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(io.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmMSFF-5.0.lib(io.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+ITKIOMeshGifti-5.0.lib(itkGiftiMeshIO.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+ITKIOMeshGifti-5.0.lib(itkGiftiMeshIO.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+ITKIOTransformBase-5.0.lib(itkTransformFileReader.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+ITKIOTransformBase-5.0.lib(itkTransformFileReader.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+ITKIOTransformBase-5.0.lib(itkTransformIOFactory.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+ITKIOTransformBase-5.0.lib(itkTransformIOFactory.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+ITKIOTransformBase-5.0.lib(itkCompositeTransformIOHelper.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+ITKIOTransformBase-5.0.lib(itkCompositeTransformIOHelper.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+ITKTestKernel-5.0.lib(itkTestDriverInclude.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+ITKTestKernel-5.0.lib(itkTestDriverInclude.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+ITKTransformFactory-5.0.lib(itkTransformFactoryBaseRegisterDoubleParameters.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+ITKTransformFactory-5.0.lib(itkTransformFactoryBaseRegisterDoubleParameters.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+ITKTransformFactory-5.0.lib(itkTransformFactoryBase.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+ITKTransformFactory-5.0.lib(itkTransformFactoryBase.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+ITKTransformFactory-5.0.lib(itkTransformFactoryBaseRegisterFloatParameters.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+ITKTransformFactory-5.0.lib(itkTransformFactoryBaseRegisterFloatParameters.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_matrix_fixed+double.allsizes-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_matrix_fixed+double.allsizes-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_fortran_copy_fixed+double.allsizes-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_fortran_copy_fixed+double.allsizes-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_matlab_print+double-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_matlab_print+double-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_diag_matrix_fixed+double.allsizes-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_diag_matrix_fixed+double.allsizes-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_fortran_copy+double-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_fortran_copy+double-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_diag_matrix+double-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_diag_matrix+double-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_vector_fixed+float.allsizes-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_vector_fixed+float.allsizes-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_real_polynomial.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_real_polynomial.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_quaternion+double-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_quaternion+double-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_det+double-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_det+double-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_quaternion+float-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_quaternion+float-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_det+float-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_det+float-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_matlab_print_scalar.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_matlab_print_scalar.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_matrix_fixed+float.allsizes-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_matrix_fixed+float.allsizes-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_matlab_print_format.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_matlab_print_format.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl_algo-5.0.lib(vnl_svd+float-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl_algo-5.0.lib(vnl_svd+float-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl_algo-5.0.lib(vnl_svd_fixed+float.allsizes-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl_algo-5.0.lib(vnl_svd_fixed+float.allsizes-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl_algo-5.0.lib(vnl_determinant+float-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl_algo-5.0.lib(vnl_determinant+float-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl_algo-5.0.lib(vnl_qr+float-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl_algo-5.0.lib(vnl_qr+float-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+ITKCommon-5.0.lib(itkImageToImageFilterCommon.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+ITKCommon-5.0.lib(itkImageToImageFilterCommon.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+ITKCommon-5.0.lib(itkCreateObjectFunction.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+ITKCommon-5.0.lib(itkCreateObjectFunction.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmcharls-5.0.lib(interface.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmcharls-5.0.lib(interface.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmcharls-5.0.lib(jpegls.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmcharls-5.0.lib(jpegls.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmcharls-5.0.lib(jpegstreamreader.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmcharls-5.0.lib(jpegstreamreader.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmcharls-5.0.lib(jpegstreamwriter.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmcharls-5.0.lib(jpegstreamwriter.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmcharls-5.0.lib(jpegmarkersegment.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmcharls-5.0.lib(jpegmarkersegment.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmCommon-5.0.lib(gdcmSystem.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmCommon-5.0.lib(gdcmSystem.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmCommon-5.0.lib(gdcmTrace.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmCommon-5.0.lib(gdcmTrace.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmCommon-5.0.lib(gdcmDirectory.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmCommon-5.0.lib(gdcmDirectory.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmCommon-5.0.lib(gdcmSwapCode.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmCommon-5.0.lib(gdcmSwapCode.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmCommon-5.0.lib(gdcmUnpacker12Bits.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmCommon-5.0.lib(gdcmUnpacker12Bits.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmCommon-5.0.lib(gdcmSubject.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmCommon-5.0.lib(gdcmSubject.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmCommon-5.0.lib(gdcmEvent.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmCommon-5.0.lib(gdcmEvent.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkgdcmCommon-5.0.lib(gdcmFilename.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkgdcmCommon-5.0.lib(gdcmFilename.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+ITKIOImageBase-5.0.lib(itkImageFileWriter.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+ITKIOImageBase-5.0.lib(itkImageFileWriter.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+ITKIOMeshBase-5.0.lib(itkMeshIOBase.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+ITKIOMeshBase-5.0.lib(itkMeshIOBase.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_fortran_copy+float-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_fortran_copy+float-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_matlab_print+float-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_matlab_print+float-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_diag_matrix+float-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_diag_matrix+float-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_fortran_copy_fixed+float.allsizes-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_fortran_copy_fixed+float.allsizes-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_diag_matrix_fixed+float.allsizes-.obj) : error LNK2038: 检测到“_ITERATOR_DEBUG_LEVEL”的不匹配项: 值“0”不匹配值“2”(CUDAdrr.cu.obj 中)
+itkvnl-5.0.lib(vnl_diag_matrix_fixed+float.allsizes-.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MD_DynamicRelease”不匹配值“MDd_DynamicDebug”(CUDAdrr.cu.obj 中)
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+CUDAdrr.cu.obj : error LNK2019: 无法解析的外部符号 cudaDeviceSynchronize，函数 "void __cdecl calUCharDRRwithCUDA(struct CUDAParamerters,struct DRRParameters,int,bool)" (?calUCharDRRwithCUDA@@YAXUCUDAParamerters@@UDRRParameters@@H_N@Z) 中引用了该符号
+CUDAdrr.cu.obj : error LNK2019: 无法解析的外部符号 cudaStreamCreateWithFlags，函数 "void __cdecl loadDICOMInGPUMemory(float *,int *,float *)" (?loadDICOMInGPUMemory@@YAXPEAMPEAH0@Z) 中引用了该符号
+CUDAdrr.cu.obj : error LNK2019: 无法解析的外部符号 cudaStreamDestroy，函数 "void __cdecl loadDICOMInGPUMemory(float *,int *,float *)" (?loadDICOMInGPUMemory@@YAXPEAMPEAH0@Z) 中引用了该符号
+CUDAdrr.cu.obj : error LNK2019: 无法解析的外部符号 cudaFree，函数 "void __cdecl freeDICOMFromGPUMemory(void)" (?freeDICOMFromGPUMemory@@YAXXZ) 中引用了该符号
+CUDAdrr.cu.obj : error LNK2019: 无法解析的外部符号 cudaMalloc，函数 "void __cdecl loadDICOMInGPUMemory(float *,int *,float *)" (?loadDICOMInGPUMemory@@YAXPEAMPEAH0@Z) 中引用了该符号
+CUDAdrr.cu.obj : error LNK2019: 无法解析的外部符号 cudaMemcpyAsync，函数 "void __cdecl loadDICOMInGPUMemory(float *,int *,float *)" (?loadDICOMInGPUMemory@@YAXPEAMPEAH0@Z) 中引用了该符号
+CUDAdrr.cu.obj : error LNK2019: 无法解析的外部符号 cudaLaunchKernel，函数 "enum cudaError __cdecl cudaLaunchKernel<char>(char const *,struct dim3,struct dim3,void * *,unsigned __int64,struct CUstream_st *)" (??$cudaLaunchKernel@D@@YA?AW4cudaError@@PEBDUdim3@@1PEAPEAX_KPEAUCUstream_st@@@Z) 中引用了该符号
+CUDAdrr.cu.obj : error LNK2019: 无法解析的外部符号 cudaMemcpy，函数 "void __cdecl calUCharDRRwithCUDA(struct CUDAParamerters,struct DRRParameters,int,bool)" (?calUCharDRRwithCUDA@@YAXUCUDAParamerters@@UDRRParameters@@H_N@Z) 中引用了该符号
+CUDAdrr.cu.obj : error LNK2019: 无法解析的外部符号 cudaMemcpyToSymbol，函数 "enum cudaError __cdecl cudaMemcpyToSymbol<float [3]>(float const (&)[3],void const *,unsigned __int64,unsigned __int64,enum cudaMemcpyKind)" (??$cudaMemcpyToSymbol@$$BY02M@@YA?AW4cudaError@@AEAY02$$CBMPEBX_K2W4cudaMemcpyKind@@@Z) 中引用了该符号
+CUDAdrr.cu.obj : error LNK2019: 无法解析的外部符号 cudaCreateTextureObject，函数 "void __cdecl loadDICOMInGPUMemory(float *,int *,float *)" (?loadDICOMInGPUMemory@@YAXPEAMPEAH0@Z) 中引用了该符号
+CUDAdrr.cu.obj : error LNK2019: 无法解析的外部符号 cudaDestroyTextureObject，函数 "void __cdecl loadDICOMInGPUMemory(float *,int *,float *)" (?loadDICOMInGPUMemory@@YAXPEAMPEAH0@Z) 中引用了该符号
+CUDAdrr.cu.obj : error LNK2019: 无法解析的外部符号 __cudaPushCallConfiguration，函数 "void __cdecl calUCharDRRwithCUDA(struct CUDAParamerters,struct DRRParameters,int,bool)" (?calUCharDRRwithCUDA@@YAXUCUDAParamerters@@UDRRParameters@@H_N@Z) 中引用了该符号
+CUDAdrr.cu.obj : error LNK2019: 无法解析的外部符号 __cudaPopCallConfiguration，函数 "void __cdecl __device_stub__Z8cal_histPiS_(int *,int *)" (?__device_stub__Z8cal_histPiS_@@YAXPEAH0@Z) 中引用了该符号
+CUDAdrr.cu.obj : error LNK2019: 无法解析的外部符号 __cudaRegisterFatBinary，函数 "void __cdecl __nv_cudaEntityRegisterCallback(void * *)" (?__nv_cudaEntityRegisterCallback@@YAXPEAPEAX@Z) 中引用了该符号
+CUDAdrr.cu.obj : error LNK2019: 无法解析的外部符号 __cudaRegisterFatBinaryEnd，函数 "void __cdecl __nv_cudaEntityRegisterCallback(void * *)" (?__nv_cudaEntityRegisterCallback@@YAXPEAPEAX@Z) 中引用了该符号
+CUDAdrr.cu.obj : error LNK2019: 无法解析的外部符号 __cudaUnregisterFatBinary，函数 "void __cdecl __cudaUnregisterBinaryUtil(void)" (?__cudaUnregisterBinaryUtil@@YAXXZ) 中引用了该符号
+CUDAdrr.cu.obj : error LNK2019: 无法解析的外部符号 __cudaRegisterVar，函数 "void __cdecl __nv_cudaEntityRegisterCallback(void * *)" (?__nv_cudaEntityRegisterCallback@@YAXPEAPEAX@Z) 中引用了该符号
+CUDAdrr.cu.obj : error LNK2019: 无法解析的外部符号 __cudaRegisterFunction，函数 "void __cdecl __nv_cudaEntityRegisterCallback(void * *)" (?__nv_cudaEntityRegisterCallback@@YAXPEAPEAX@Z) 中引用了该符号
+QImageLabel.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl QString::~QString(void)" (__imp_??1QString@@QEAA@XZ)，函数 "public: void __cdecl QImageLabel::reverseColor(void)" (?reverseColor@QImageLabel@@QEAAXXZ) 中引用了该符号
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl QString::~QString(void)" (__imp_??1QString@@QEAA@XZ)
+main.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl QString::~QString(void)" (__imp_??1QString@@QEAA@XZ)
+QImageLabel.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl QString::QString(char const *)" (__imp_??0QString@@QEAA@PEBD@Z)，函数 "public: void __cdecl QImageLabel::reverseColor(void)" (?reverseColor@QImageLabel@@QEAAXXZ) 中引用了该符号
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl QString::QString(char const *)" (__imp_??0QString@@QEAA@PEBD@Z)
+main.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl QString::QString(char const *)" (__imp_??0QString@@QEAA@PEBD@Z)
+QImageLabel.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl QPoint::QPoint(void)" (__imp_??0QPoint@@QEAA@XZ)，函数 "public: __cdecl QImageLabel::QImageLabel(class QWidget *)" (??0QImageLabel@@QEAA@PEAVQWidget@@@Z) 中引用了该符号
+QImageLabel.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl QPoint::QPoint(int,int)" (__imp_??0QPoint@@QEAA@HH@Z)，函数 "class QPoint const __cdecl operator-(class QPoint const &,class QPoint const &)" (??G@YA?BVQPoint@@AEBV0@0@Z) 中引用了该符号
+QImageLabel.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: class QPoint __cdecl QRect::topLeft(void)const " (__imp_?topLeft@QRect@@QEBA?AVQPoint@@XZ)，函数 "protected: virtual void __cdecl QImageLabel::mousePressEvent(class QMouseEvent *)" (?mousePressEvent@QImageLabel@@MEAAXPEAVQMouseEvent@@@Z) 中引用了该符号
+QImageLabel.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: int __cdecl QRect::width(void)const " (__imp_?width@QRect@@QEBAHXZ)，函数 "public: void __cdecl QImageLabel::setSize(class QRect const &)" (?setSize@QImageLabel@@QEAAXAEBVQRect@@@Z) 中引用了该符号
+    已定义且可能匹配的符号上的提示:
+      "__declspec(dllimport) public: __int64 __cdecl std::ios_base::width(__int64)" (__imp_?width@ios_base@std@@QEAA_J_J@Z)
+      "__declspec(dllimport) public: __int64 __cdecl std::ios_base::width(void)const " (__imp_?width@ios_base@std@@QEBA_JXZ)
+QImageLabel.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: int __cdecl QRect::height(void)const " (__imp_?height@QRect@@QEBAHXZ)，函数 "public: void __cdecl QImageLabel::setSize(class QRect const &)" (?setSize@QImageLabel@@QEAAXAEBVQRect@@@Z) 中引用了该符号
+QImageLabel.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl QImage::QImage(void)" (__imp_??0QImage@@QEAA@XZ)，函数 "public: __cdecl QImageLabel::QImageLabel(class QWidget *)" (??0QImageLabel@@QEAA@PEAVQWidget@@@Z) 中引用了该符号
+QImageLabel.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl QImage::QImage(class QString const &,char const *)" (__imp_??0QImage@@QEAA@AEBVQString@@PEBD@Z)，函数 "public: void __cdecl QImageLabel::reverseColor(void)" (?reverseColor@QImageLabel@@QEAAXXZ) 中引用了该符号
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl QImage::QImage(class QString const &,char const *)" (__imp_??0QImage@@QEAA@AEBVQString@@PEBD@Z)
+QImageLabel.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl QImage::QImage(class QImage &&)" (__imp_??0QImage@@QEAA@$$QEAV0@@Z)，函数 "public: class QImage __cdecl QImageLabel::copyImage(int,int,int,int)" (?copyImage@QImageLabel@@QEAA?AVQImage@@HHHH@Z) 中引用了该符号
+QImageLabel.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: virtual __cdecl QImage::~QImage(void)" (__imp_??1QImage@@UEAA@XZ)，函数 "int `public: __cdecl QImageLabel::QImageLabel(class QWidget *)'::`1'::dtor$2" (?dtor$2@?0???0QImageLabel@@QEAA@PEAVQWidget@@@Z@4HA) 中引用了该符号
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: virtual __cdecl QImage::~QImage(void)" (__imp_??1QImage@@UEAA@XZ)
+QImageLabel.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: class QImage & __cdecl QImage::operator=(class QImage const &)" (__imp_??4QImage@@QEAAAEAV0@AEBV0@@Z)，函数 "public: void __cdecl QImageLabel::setImage(class QImage)" (?setImage@QImageLabel@@QEAAXVQImage@@@Z) 中引用了该符号
+QImageLabel.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: class QImage & __cdecl QImage::operator=(class QImage &&)" (__imp_??4QImage@@QEAAAEAV0@$$QEAV0@@Z)，函数 "public: void __cdecl QImageLabel::reverseColor(void)" (?reverseColor@QImageLabel@@QEAAXXZ) 中引用了该符号
+QImageLabel.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: class QImage __cdecl QImage::copy(int,int,int,int)const " (__imp_?copy@QImage@@QEBA?AV1@HHHH@Z)，函数 "public: class QImage __cdecl QImageLabel::copyImage(int,int,int,int)" (?copyImage@QImageLabel@@QEAA?AVQImage@@HHHH@Z) 中引用了该符号
+QImageLabel.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: int __cdecl QImage::width(void)const " (__imp_?width@QImage@@QEBAHXZ)，函数 "public: void __cdecl QImageLabel::setImage(class QImage)" (?setImage@QImageLabel@@QEAAXVQImage@@@Z) 中引用了该符号
+    已定义且可能匹配的符号上的提示:
+      "__declspec(dllimport) public: __int64 __cdecl std::ios_base::width(__int64)" (__imp_?width@ios_base@std@@QEAA_J_J@Z)
+      "__declspec(dllimport) public: __int64 __cdecl std::ios_base::width(void)const " (__imp_?width@ios_base@std@@QEBA_JXZ)
+QImageLabel.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: int __cdecl QImage::height(void)const " (__imp_?height@QImage@@QEBAHXZ)，函数 "public: void __cdecl QImageLabel::setImage(class QImage)" (?setImage@QImageLabel@@QEAAXVQImage@@@Z) 中引用了该符号
+QImageLabel.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: unsigned char * __cdecl QImage::bits(void)" (__imp_?bits@QImage@@QEAAPEAEXZ)，函数 "public: void __cdecl QImageLabel::reverseColor(void)" (?reverseColor@QImageLabel@@QEAAXXZ) 中引用了该符号
+QImageLabel.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: int __cdecl QImage::byteCount(void)const " (__imp_?byteCount@QImage@@QEBAHXZ)，函数 "public: void __cdecl QImageLabel::reverseColor(void)" (?reverseColor@QImageLabel@@QEAAXXZ) 中引用了该符号
+QImageLabel.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: class QImage __cdecl QImage::scaled(int,int,enum Qt::AspectRatioMode,enum Qt::TransformationMode)const " (__imp_?scaled@QImage@@QEBA?AV1@HHW4AspectRatioMode@Qt@@W4TransformationMode@3@@Z)，函数 "public: class QImage __cdecl QImageLabel::copyImage(int,int,int,int)" (?copyImage@QImageLabel@@QEAA?AVQImage@@HHHH@Z) 中引用了该符号
+QImageLabel.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: bool __cdecl QImage::save(class QString const &,char const *,int)const " (__imp_?save@QImage@@QEBA_NAEBVQString@@PEBDH@Z)，函数 "public: void __cdecl QImageLabel::reverseColor(void)" (?reverseColor@QImageLabel@@QEAAXXZ) 中引用了该符号
+QImageLabel.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl QPixmap::QPixmap(void)" (__imp_??0QPixmap@@QEAA@XZ)，函数 "public: __cdecl QImageLabel::QImageLabel(class QWidget *)" (??0QImageLabel@@QEAA@PEAVQWidget@@@Z) 中引用了该符号
+QImageLabel.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: virtual __cdecl QPixmap::~QPixmap(void)" (__imp_??1QPixmap@@UEAA@XZ)，函数 "int `public: __cdecl QImageLabel::QImageLabel(class QWidget *)'::`1'::dtor$1" (?dtor$1@?0???0QImageLabel@@QEAA@PEAVQWidget@@@Z@4HA) 中引用了该符号
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: virtual __cdecl QPixmap::~QPixmap(void)" (__imp_??1QPixmap@@UEAA@XZ)
+QImageLabel.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: class QPixmap & __cdecl QPixmap::operator=(class QPixmap const &)" (__imp_??4QPixmap@@QEAAAEAV0@AEBV0@@Z)，函数 "public: void __cdecl QImageLabel::setImagePixmap(class QPixmap)" (?setImagePixmap@QImageLabel@@QEAAXVQPixmap@@@Z) 中引用了该符号
+QImageLabel.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: int __cdecl QPixmap::width(void)const " (__imp_?width@QPixmap@@QEBAHXZ)，函数 "public: void __cdecl QImageLabel::setImagePixmap(class QPixmap)" (?setImagePixmap@QImageLabel@@QEAAXVQPixmap@@@Z) 中引用了该符号
+    已定义且可能匹配的符号上的提示:
+      "__declspec(dllimport) public: __int64 __cdecl std::ios_base::width(__int64)" (__imp_?width@ios_base@std@@QEAA_J_J@Z)
+      "__declspec(dllimport) public: __int64 __cdecl std::ios_base::width(void)const " (__imp_?width@ios_base@std@@QEBA_JXZ)
+QImageLabel.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: int __cdecl QPixmap::height(void)const " (__imp_?height@QPixmap@@QEBAHXZ)，函数 "public: void __cdecl QImageLabel::setImagePixmap(class QPixmap)" (?setImagePixmap@QImageLabel@@QEAAXVQPixmap@@@Z) 中引用了该符号
+QImageLabel.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: static class QPixmap __cdecl QPixmap::fromImage(class QImage const &,class QFlags<enum Qt::ImageConversionFlag>)" (__imp_?fromImage@QPixmap@@SA?AV1@AEBVQImage@@V?$QFlags@W4ImageConversionFlag@Qt@@@@@Z)，函数 "public: void __cdecl QImageLabel::reverseColor(void)" (?reverseColor@QImageLabel@@QEAAXXZ) 中引用了该符号
+QImageLabel.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: class QRect __cdecl QWidget::frameGeometry(void)const " (__imp_?frameGeometry@QWidget@@QEBA?AVQRect@@XZ)，函数 "protected: virtual void __cdecl QImageLabel::mousePressEvent(class QMouseEvent *)" (?mousePressEvent@QImageLabel@@MEAAXPEAVQMouseEvent@@@Z) 中引用了该符号
+QImageLabel.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl QWidget::setGraphicsEffect(class QGraphicsEffect *)" (__imp_?setGraphicsEffect@QWidget@@QEAAXPEAVQGraphicsEffect@@@Z)，函数 "public: __cdecl QImageLabel::QImageLabel(class QWidget *)" (??0QImageLabel@@QEAA@PEAVQWidget@@@Z) 中引用了该符号
+QImageLabel.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl QWidget::move(class QPoint const &)" (__imp_?move@QWidget@@QEAAXAEBVQPoint@@@Z)，函数 "protected: virtual void __cdecl QImageLabel::mouseMoveEvent(class QMouseEvent *)" (?mouseMoveEvent@QImageLabel@@MEAAXPEAVQMouseEvent@@@Z) 中引用了该符号
+QImageLabel.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl QWidget::resize(int,int)" (__imp_?resize@QWidget@@QEAAXHH@Z)，函数 "public: void __cdecl QImageLabel::reverseColor(void)" (?reverseColor@QImageLabel@@QEAAXXZ) 中引用了该符号
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl QWidget::resize(int,int)" (__imp_?resize@QWidget@@QEAAXHH@Z)
+    已定义且可能匹配的符号上的提示:
+      "__declspec(dllimport) public: void __cdecl cv::Mat::resize(unsigned __int64)" (__imp_?resize@Mat@cv@@QEAAX_K@Z)
+      "__declspec(dllimport) void __cdecl cv::resize(class cv::debug_build_guard::_InputArray const &,class cv::debug_build_guard::_OutputArray const &,class cv::Size_<int>,double,double,int)" (__imp_?resize@cv@@YAXAEBV_InputArray@debug_build_guard@1@AEBV_OutputArray@31@V?$Size_@H@1@NNH@Z)
+QImageLabel.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl QWidget::setGeometry(class QRect const &)" (__imp_?setGeometry@QWidget@@QEAAXAEBVQRect@@@Z)，函数 "public: void __cdecl QImageLabel::setSize(class QRect const &)" (?setSize@QImageLabel@@QEAAXAEBVQRect@@@Z) 中引用了该符号
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl QWidget::setGeometry(class QRect const &)" (__imp_?setGeometry@QWidget@@QEAAXAEBVQRect@@@Z)
+QImageLabel.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl QLabel::QLabel(class QWidget *,class QFlags<enum Qt::WindowType>)" (__imp_??0QLabel@@QEAA@PEAVQWidget@@V?$QFlags@W4WindowType@Qt@@@@@Z)，函数 "public: __cdecl QImageLabel::QImageLabel(class QWidget *)" (??0QImageLabel@@QEAA@PEAVQWidget@@@Z) 中引用了该符号
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl QLabel::QLabel(class QWidget *,class QFlags<enum Qt::WindowType>)" (__imp_??0QLabel@@QEAA@PEAVQWidget@@V?$QFlags@W4WindowType@Qt@@@@@Z)
+QImageLabel.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: virtual __cdecl QLabel::~QLabel(void)" (__imp_??1QLabel@@UEAA@XZ)，函数 "int `public: __cdecl QImageLabel::QImageLabel(class QWidget *)'::`1'::dtor$0" (?dtor$0@?0???0QImageLabel@@QEAA@PEAVQWidget@@@Z@4HA) 中引用了该符号
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: virtual __cdecl QLabel::~QLabel(void)" (__imp_??1QLabel@@UEAA@XZ)
+QImageLabel.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl QLabel::setScaledContents(bool)" (__imp_?setScaledContents@QLabel@@QEAAX_N@Z)，函数 "public: __cdecl QImageLabel::QImageLabel(class QWidget *)" (??0QImageLabel@@QEAA@PEAVQWidget@@@Z) 中引用了该符号
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl QLabel::setScaledContents(bool)" (__imp_?setScaledContents@QLabel@@QEAAX_N@Z)
+QImageLabel.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl QLabel::setPixmap(class QPixmap const &)" (__imp_?setPixmap@QLabel@@QEAAXAEBVQPixmap@@@Z)，函数 "public: void __cdecl QImageLabel::reverseColor(void)" (?reverseColor@QImageLabel@@QEAAXXZ) 中引用了该符号
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl QLabel::setPixmap(class QPixmap const &)" (__imp_?setPixmap@QLabel@@QEAAXAEBVQPixmap@@@Z)
+QImageLabel.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: class QPoint __cdecl QMouseEvent::globalPos(void)const " (__imp_?globalPos@QMouseEvent@@QEBA?AVQPoint@@XZ)，函数 "protected: virtual void __cdecl QImageLabel::mouseMoveEvent(class QMouseEvent *)" (?mouseMoveEvent@QImageLabel@@MEAAXPEAVQMouseEvent@@@Z) 中引用了该符号
+QImageLabel.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: enum Qt::MouseButton __cdecl QMouseEvent::button(void)const " (__imp_?button@QMouseEvent@@QEBA?AW4MouseButton@Qt@@XZ)，函数 "protected: virtual void __cdecl QImageLabel::mousePressEvent(class QMouseEvent *)" (?mousePressEvent@QImageLabel@@MEAAXPEAVQMouseEvent@@@Z) 中引用了该符号
+QImageLabel.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: class QFlags<enum Qt::MouseButton> __cdecl QMouseEvent::buttons(void)const " (__imp_?buttons@QMouseEvent@@QEBA?AV?$QFlags@W4MouseButton@Qt@@@@XZ)，函数 "protected: virtual void __cdecl QImageLabel::mouseMoveEvent(class QMouseEvent *)" (?mouseMoveEvent@QImageLabel@@MEAAXPEAVQMouseEvent@@@Z) 中引用了该符号
+QImageLabel.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: int __cdecl QWheelEvent::delta(void)const " (__imp_?delta@QWheelEvent@@QEBAHXZ)，函数 "protected: virtual void __cdecl QImageLabel::wheelEvent(class QWheelEvent *)" (?wheelEvent@QImageLabel@@MEAAXPEAVQWheelEvent@@@Z) 中引用了该符号
+QImageLabel.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl QGraphicsOpacityEffect::QGraphicsOpacityEffect(class QObject *)" (__imp_??0QGraphicsOpacityEffect@@QEAA@PEAVQObject@@@Z)，函数 "public: __cdecl QImageLabel::QImageLabel(class QWidget *)" (??0QImageLabel@@QEAA@PEAVQWidget@@@Z) 中引用了该符号
+QImageLabel.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: virtual __cdecl QGraphicsOpacityEffect::~QGraphicsOpacityEffect(void)" (__imp_??1QGraphicsOpacityEffect@@UEAA@XZ)，函数 "public: virtual void * __cdecl QGraphicsOpacityEffect::`scalar deleting destructor'(unsigned int)" (??_GQGraphicsOpacityEffect@@UEAAPEAXI@Z) 中引用了该符号
+QImageLabel.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl QGraphicsOpacityEffect::setOpacity(double)" (__imp_?setOpacity@QGraphicsOpacityEffect@@QEAAXN@Z)，函数 "public: __cdecl QImageLabel::QImageLabel(class QWidget *)" (??0QImageLabel@@QEAA@PEAVQWidget@@@Z) 中引用了该符号
+QImageLabel.obj : error LNK2001: 无法解析的外部符号 "public: virtual class QSize __cdecl QLabel::sizeHint(void)const " (?sizeHint@QLabel@@UEBA?AVQSize@@XZ)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual class QSize __cdecl QLabel::sizeHint(void)const " (?sizeHint@QLabel@@UEBA?AVQSize@@XZ)
+QImageLabel.obj : error LNK2001: 无法解析的外部符号 "public: virtual class QSize __cdecl QLabel::minimumSizeHint(void)const " (?minimumSizeHint@QLabel@@UEBA?AVQSize@@XZ)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual class QSize __cdecl QLabel::minimumSizeHint(void)const " (?minimumSizeHint@QLabel@@UEBA?AVQSize@@XZ)
+QImageLabel.obj : error LNK2001: 无法解析的外部符号 "public: virtual int __cdecl QLabel::heightForWidth(int)const " (?heightForWidth@QLabel@@UEBAHH@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual int __cdecl QLabel::heightForWidth(int)const " (?heightForWidth@QLabel@@UEBAHH@Z)
+QImageLabel.obj : error LNK2001: 无法解析的外部符号 "protected: virtual bool __cdecl QLabel::event(class QEvent *)" (?event@QLabel@@MEAA_NPEAVQEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual bool __cdecl QLabel::event(class QEvent *)" (?event@QLabel@@MEAA_NPEAVQEvent@@@Z)
+QImageLabel.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QLabel::keyPressEvent(class QKeyEvent *)" (?keyPressEvent@QLabel@@MEAAXPEAVQKeyEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QLabel::keyPressEvent(class QKeyEvent *)" (?keyPressEvent@QLabel@@MEAAXPEAVQKeyEvent@@@Z)
+QImageLabel.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QLabel::paintEvent(class QPaintEvent *)" (?paintEvent@QLabel@@MEAAXPEAVQPaintEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QLabel::paintEvent(class QPaintEvent *)" (?paintEvent@QLabel@@MEAAXPEAVQPaintEvent@@@Z)
+QImageLabel.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QLabel::changeEvent(class QEvent *)" (?changeEvent@QLabel@@MEAAXPEAVQEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QLabel::changeEvent(class QEvent *)" (?changeEvent@QLabel@@MEAAXPEAVQEvent@@@Z)
+QImageLabel.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QLabel::contextMenuEvent(class QContextMenuEvent *)" (?contextMenuEvent@QLabel@@MEAAXPEAVQContextMenuEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QLabel::contextMenuEvent(class QContextMenuEvent *)" (?contextMenuEvent@QLabel@@MEAAXPEAVQContextMenuEvent@@@Z)
+QImageLabel.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QLabel::focusInEvent(class QFocusEvent *)" (?focusInEvent@QLabel@@MEAAXPEAVQFocusEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QLabel::focusInEvent(class QFocusEvent *)" (?focusInEvent@QLabel@@MEAAXPEAVQFocusEvent@@@Z)
+QImageLabel.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QLabel::focusOutEvent(class QFocusEvent *)" (?focusOutEvent@QLabel@@MEAAXPEAVQFocusEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QLabel::focusOutEvent(class QFocusEvent *)" (?focusOutEvent@QLabel@@MEAAXPEAVQFocusEvent@@@Z)
+QImageLabel.obj : error LNK2001: 无法解析的外部符号 "protected: virtual bool __cdecl QLabel::focusNextPrevChild(bool)" (?focusNextPrevChild@QLabel@@MEAA_N_N@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual bool __cdecl QLabel::focusNextPrevChild(bool)" (?focusNextPrevChild@QLabel@@MEAA_N_N@Z)
+QImageLabel.obj : error LNK2001: 无法解析的外部符号 "public: virtual int __cdecl QWidget::devType(void)const " (?devType@QWidget@@UEBAHXZ)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual int __cdecl QWidget::devType(void)const " (?devType@QWidget@@UEBAHXZ)
+QImageLabel.obj : error LNK2001: 无法解析的外部符号 "public: virtual void __cdecl QWidget::setVisible(bool)" (?setVisible@QWidget@@UEAAX_N@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual void __cdecl QWidget::setVisible(bool)" (?setVisible@QWidget@@UEAAX_N@Z)
+QImageLabel.obj : error LNK2001: 无法解析的外部符号 "public: virtual bool __cdecl QWidget::hasHeightForWidth(void)const " (?hasHeightForWidth@QWidget@@UEBA_NXZ)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual bool __cdecl QWidget::hasHeightForWidth(void)const " (?hasHeightForWidth@QWidget@@UEBA_NXZ)
+QImageLabel.obj : error LNK2001: 无法解析的外部符号 "public: virtual class QPaintEngine * __cdecl QWidget::paintEngine(void)const " (?paintEngine@QWidget@@UEBAPEAVQPaintEngine@@XZ)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual class QPaintEngine * __cdecl QWidget::paintEngine(void)const " (?paintEngine@QWidget@@UEBAPEAVQPaintEngine@@XZ)
+QImageLabel.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QWidget::mouseDoubleClickEvent(class QMouseEvent *)" (?mouseDoubleClickEvent@QWidget@@MEAAXPEAVQMouseEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QWidget::mouseDoubleClickEvent(class QMouseEvent *)" (?mouseDoubleClickEvent@QWidget@@MEAAXPEAVQMouseEvent@@@Z)
+QImageLabel.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QWidget::keyReleaseEvent(class QKeyEvent *)" (?keyReleaseEvent@QWidget@@MEAAXPEAVQKeyEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QWidget::keyReleaseEvent(class QKeyEvent *)" (?keyReleaseEvent@QWidget@@MEAAXPEAVQKeyEvent@@@Z)
+QImageLabel.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QWidget::enterEvent(class QEvent *)" (?enterEvent@QWidget@@MEAAXPEAVQEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QWidget::enterEvent(class QEvent *)" (?enterEvent@QWidget@@MEAAXPEAVQEvent@@@Z)
+QImageLabel.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QWidget::leaveEvent(class QEvent *)" (?leaveEvent@QWidget@@MEAAXPEAVQEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QWidget::leaveEvent(class QEvent *)" (?leaveEvent@QWidget@@MEAAXPEAVQEvent@@@Z)
+QImageLabel.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QWidget::moveEvent(class QMoveEvent *)" (?moveEvent@QWidget@@MEAAXPEAVQMoveEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QWidget::moveEvent(class QMoveEvent *)" (?moveEvent@QWidget@@MEAAXPEAVQMoveEvent@@@Z)
+QImageLabel.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QWidget::resizeEvent(class QResizeEvent *)" (?resizeEvent@QWidget@@MEAAXPEAVQResizeEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QWidget::resizeEvent(class QResizeEvent *)" (?resizeEvent@QWidget@@MEAAXPEAVQResizeEvent@@@Z)
+QImageLabel.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QWidget::closeEvent(class QCloseEvent *)" (?closeEvent@QWidget@@MEAAXPEAVQCloseEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QWidget::closeEvent(class QCloseEvent *)" (?closeEvent@QWidget@@MEAAXPEAVQCloseEvent@@@Z)
+QImageLabel.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QWidget::tabletEvent(class QTabletEvent *)" (?tabletEvent@QWidget@@MEAAXPEAVQTabletEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QWidget::tabletEvent(class QTabletEvent *)" (?tabletEvent@QWidget@@MEAAXPEAVQTabletEvent@@@Z)
+QImageLabel.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QWidget::actionEvent(class QActionEvent *)" (?actionEvent@QWidget@@MEAAXPEAVQActionEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QWidget::actionEvent(class QActionEvent *)" (?actionEvent@QWidget@@MEAAXPEAVQActionEvent@@@Z)
+QImageLabel.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QWidget::dragEnterEvent(class QDragEnterEvent *)" (?dragEnterEvent@QWidget@@MEAAXPEAVQDragEnterEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QWidget::dragEnterEvent(class QDragEnterEvent *)" (?dragEnterEvent@QWidget@@MEAAXPEAVQDragEnterEvent@@@Z)
+QImageLabel.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QWidget::dragMoveEvent(class QDragMoveEvent *)" (?dragMoveEvent@QWidget@@MEAAXPEAVQDragMoveEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QWidget::dragMoveEvent(class QDragMoveEvent *)" (?dragMoveEvent@QWidget@@MEAAXPEAVQDragMoveEvent@@@Z)
+QImageLabel.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QWidget::dragLeaveEvent(class QDragLeaveEvent *)" (?dragLeaveEvent@QWidget@@MEAAXPEAVQDragLeaveEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QWidget::dragLeaveEvent(class QDragLeaveEvent *)" (?dragLeaveEvent@QWidget@@MEAAXPEAVQDragLeaveEvent@@@Z)
+QImageLabel.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QWidget::dropEvent(class QDropEvent *)" (?dropEvent@QWidget@@MEAAXPEAVQDropEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QWidget::dropEvent(class QDropEvent *)" (?dropEvent@QWidget@@MEAAXPEAVQDropEvent@@@Z)
+QImageLabel.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QWidget::showEvent(class QShowEvent *)" (?showEvent@QWidget@@MEAAXPEAVQShowEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QWidget::showEvent(class QShowEvent *)" (?showEvent@QWidget@@MEAAXPEAVQShowEvent@@@Z)
+QImageLabel.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QWidget::hideEvent(class QHideEvent *)" (?hideEvent@QWidget@@MEAAXPEAVQHideEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QWidget::hideEvent(class QHideEvent *)" (?hideEvent@QWidget@@MEAAXPEAVQHideEvent@@@Z)
+QImageLabel.obj : error LNK2001: 无法解析的外部符号 "protected: virtual bool __cdecl QWidget::nativeEvent(class QByteArray const &,void *,long *)" (?nativeEvent@QWidget@@MEAA_NAEBVQByteArray@@PEAXPEAJ@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual bool __cdecl QWidget::nativeEvent(class QByteArray const &,void *,long *)" (?nativeEvent@QWidget@@MEAA_NAEBVQByteArray@@PEAXPEAJ@Z)
+QImageLabel.obj : error LNK2001: 无法解析的外部符号 "protected: virtual int __cdecl QWidget::metric(enum QPaintDevice::PaintDeviceMetric)const " (?metric@QWidget@@MEBAHW4PaintDeviceMetric@QPaintDevice@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual int __cdecl QWidget::metric(enum QPaintDevice::PaintDeviceMetric)const " (?metric@QWidget@@MEBAHW4PaintDeviceMetric@QPaintDevice@@@Z)
+QImageLabel.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QWidget::initPainter(class QPainter *)const " (?initPainter@QWidget@@MEBAXPEAVQPainter@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QWidget::initPainter(class QPainter *)const " (?initPainter@QWidget@@MEBAXPEAVQPainter@@@Z)
+QImageLabel.obj : error LNK2001: 无法解析的外部符号 "protected: virtual class QPaintDevice * __cdecl QWidget::redirected(class QPoint *)const " (?redirected@QWidget@@MEBAPEAVQPaintDevice@@PEAVQPoint@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual class QPaintDevice * __cdecl QWidget::redirected(class QPoint *)const " (?redirected@QWidget@@MEBAPEAVQPaintDevice@@PEAVQPoint@@@Z)
+QImageLabel.obj : error LNK2001: 无法解析的外部符号 "protected: virtual class QPainter * __cdecl QWidget::sharedPainter(void)const " (?sharedPainter@QWidget@@MEBAPEAVQPainter@@XZ)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual class QPainter * __cdecl QWidget::sharedPainter(void)const " (?sharedPainter@QWidget@@MEBAPEAVQPainter@@XZ)
+QImageLabel.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QWidget::inputMethodEvent(class QInputMethodEvent *)" (?inputMethodEvent@QWidget@@MEAAXPEAVQInputMethodEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QWidget::inputMethodEvent(class QInputMethodEvent *)" (?inputMethodEvent@QWidget@@MEAAXPEAVQInputMethodEvent@@@Z)
+QImageLabel.obj : error LNK2001: 无法解析的外部符号 "public: virtual class QVariant __cdecl QWidget::inputMethodQuery(enum Qt::InputMethodQuery)const " (?inputMethodQuery@QWidget@@UEBA?AVQVariant@@W4InputMethodQuery@Qt@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual class QVariant __cdecl QWidget::inputMethodQuery(enum Qt::InputMethodQuery)const " (?inputMethodQuery@QWidget@@UEBA?AVQVariant@@W4InputMethodQuery@Qt@@@Z)
+QImageLabel.obj : error LNK2001: 无法解析的外部符号 "public: virtual struct QMetaObject const * __cdecl QGraphicsOpacityEffect::metaObject(void)const " (?metaObject@QGraphicsOpacityEffect@@UEBAPEBUQMetaObject@@XZ)
+QImageLabel.obj : error LNK2001: 无法解析的外部符号 "public: virtual void * __cdecl QGraphicsOpacityEffect::qt_metacast(char const *)" (?qt_metacast@QGraphicsOpacityEffect@@UEAAPEAXPEBD@Z)
+QImageLabel.obj : error LNK2001: 无法解析的外部符号 "public: virtual int __cdecl QGraphicsOpacityEffect::qt_metacall(enum QMetaObject::Call,int,void * *)" (?qt_metacall@QGraphicsOpacityEffect@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z)
+QImageLabel.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QGraphicsOpacityEffect::draw(class QPainter *)" (?draw@QGraphicsOpacityEffect@@MEAAXPEAVQPainter@@@Z)
+QImageLabel.obj : error LNK2001: 无法解析的外部符号 "public: virtual class QRectF __cdecl QGraphicsEffect::boundingRectFor(class QRectF const &)const " (?boundingRectFor@QGraphicsEffect@@UEBA?AVQRectF@@AEBV2@@Z)
+QImageLabel.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QGraphicsEffect::sourceChanged(class QFlags<enum QGraphicsEffect::ChangeFlag>)" (?sourceChanged@QGraphicsEffect@@MEAAXV?$QFlags@W4ChangeFlag@QGraphicsEffect@@@@@Z)
+QImageLabel.obj : error LNK2001: 无法解析的外部符号 "public: virtual bool __cdecl QObject::event(class QEvent *)" (?event@QObject@@UEAA_NPEAVQEvent@@@Z)
+dataProcess.obj : error LNK2001: 无法解析的外部符号 "public: virtual bool __cdecl QObject::event(class QEvent *)" (?event@QObject@@UEAA_NPEAVQEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual bool __cdecl QObject::event(class QEvent *)" (?event@QObject@@UEAA_NPEAVQEvent@@@Z)
+QImageLabel.obj : error LNK2001: 无法解析的外部符号 "public: virtual bool __cdecl QObject::eventFilter(class QObject *,class QEvent *)" (?eventFilter@QObject@@UEAA_NPEAV1@PEAVQEvent@@@Z)
+dataProcess.obj : error LNK2001: 无法解析的外部符号 "public: virtual bool __cdecl QObject::eventFilter(class QObject *,class QEvent *)" (?eventFilter@QObject@@UEAA_NPEAV1@PEAVQEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual bool __cdecl QObject::eventFilter(class QObject *,class QEvent *)" (?eventFilter@QObject@@UEAA_NPEAV1@PEAVQEvent@@@Z)
+QImageLabel.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QObject::timerEvent(class QTimerEvent *)" (?timerEvent@QObject@@MEAAXPEAVQTimerEvent@@@Z)
+dataProcess.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QObject::timerEvent(class QTimerEvent *)" (?timerEvent@QObject@@MEAAXPEAVQTimerEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QObject::timerEvent(class QTimerEvent *)" (?timerEvent@QObject@@MEAAXPEAVQTimerEvent@@@Z)
+QImageLabel.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QObject::childEvent(class QChildEvent *)" (?childEvent@QObject@@MEAAXPEAVQChildEvent@@@Z)
+dataProcess.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QObject::childEvent(class QChildEvent *)" (?childEvent@QObject@@MEAAXPEAVQChildEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QObject::childEvent(class QChildEvent *)" (?childEvent@QObject@@MEAAXPEAVQChildEvent@@@Z)
+QImageLabel.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QObject::customEvent(class QEvent *)" (?customEvent@QObject@@MEAAXPEAVQEvent@@@Z)
+dataProcess.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QObject::customEvent(class QEvent *)" (?customEvent@QObject@@MEAAXPEAVQEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QObject::customEvent(class QEvent *)" (?customEvent@QObject@@MEAAXPEAVQEvent@@@Z)
+QImageLabel.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QObject::connectNotify(class QMetaMethod const &)" (?connectNotify@QObject@@MEAAXAEBVQMetaMethod@@@Z)
+dataProcess.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QObject::connectNotify(class QMetaMethod const &)" (?connectNotify@QObject@@MEAAXAEBVQMetaMethod@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QObject::connectNotify(class QMetaMethod const &)" (?connectNotify@QObject@@MEAAXAEBVQMetaMethod@@@Z)
+QImageLabel.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QObject::disconnectNotify(class QMetaMethod const &)" (?disconnectNotify@QObject@@MEAAXAEBVQMetaMethod@@@Z)
+dataProcess.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QObject::disconnectNotify(class QMetaMethod const &)" (?disconnectNotify@QObject@@MEAAXAEBVQMetaMethod@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QObject::disconnectNotify(class QMetaMethod const &)" (?disconnectNotify@QObject@@MEAAXAEBVQMetaMethod@@@Z)
+dataProcess.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl QObject::QObject(class QObject *)" (__imp_??0QObject@@QEAA@PEAV0@@Z)，函数 "public: __cdecl DataProcess::DataProcess(void)" (??0DataProcess@@QEAA@XZ) 中引用了该符号
+dataProcess.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: virtual __cdecl QObject::~QObject(void)" (__imp_??1QObject@@UEAA@XZ)，函数 "int `public: __cdecl DataProcess::DataProcess(void)'::`1'::dtor$0" (?dtor$0@?0???0DataProcess@@QEAA@XZ@4HA) 中引用了该符号
+itkDrr.obj : error LNK2019: 无法解析的外部符号 cudaGetDeviceProperties，函数 "public: double * __cdecl itkDrr::cudaUCharDRR(void)" (?cudaUCharDRR@itkDrr@@QEAAPEANXZ) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) void __cdecl qt_assert(char const *,char const *,int)" (__imp_?qt_assert@@YAXPEBD0H@Z)，函数 "public: struct QTypedArrayData<unsigned short> * __cdecl QStaticStringData<8>::data_ptr(void)const " (?data_ptr@?$QStaticStringData@$07@@QEBAPEAU?$QTypedArrayData@G@@XZ) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) void __cdecl qt_assert_x(char const *,char const *,char const *,int)" (__imp_?qt_assert_x@@YAXPEBD00H@Z)，函数 "public: class QString & __cdecl QList<class QString>::operator[](int)" (??A?$QList@VQString@@@@QEAAAEAVQString@@H@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl QMessageLogger::QMessageLogger(char const *,int,char const *)" (__imp_??0QMessageLogger@@QEAA@PEBDH0@Z)，函数 "public: void __cdecl MainWindow::openXRay(void)" (?openXRay@MainWindow@@QEAAXXZ) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: class QDebug __cdecl QMessageLogger::debug(void)const " (__imp_?debug@QMessageLogger@@QEBA?AVQDebug@@XZ)，函数 "public: void __cdecl MainWindow::openXRay(void)" (?openXRay@MainWindow@@QEAAXXZ) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) char const * __cdecl qFlagLocation(char const *)" (__imp_?qFlagLocation@@YAPEBDPEBD@Z)，函数 "public: __cdecl MainWindow::MainWindow(class QWidget *)" (??0MainWindow@@QEAA@PEAVQWidget@@@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: class QString __cdecl QMetaObject::tr(char const *,char const *,int)const " (__imp_?tr@QMetaObject@@QEBA?AVQString@@PEBD0H@Z)，函数 "public: static class QString __cdecl MainWindow::tr(char const *,char const *,int)" (?tr@MainWindow@@SA?AVQString@@PEBD0H@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: static void __cdecl QMetaObject::connectSlotsByName(class QObject *)" (__imp_?connectSlotsByName@QMetaObject@@SAXPEAVQObject@@@Z)，函数 "public: void __cdecl Ui_MainWindowClass::setupUi(class QMainWindow *)" (?setupUi@Ui_MainWindowClass@@QEAAXPEAVQMainWindow@@@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl QMetaObject::Connection::~Connection(void)" (__imp_??1Connection@QMetaObject@@QEAA@XZ)，函数 "public: __cdecl MainWindow::MainWindow(class QWidget *)" (??0MainWindow@@QEAA@PEAVQWidget@@@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl QByteArray::~QByteArray(void)" (__imp_??1QByteArray@@QEAA@XZ)，函数 "public: void __cdecl MainWindow::openXRay(void)" (?openXRay@MainWindow@@QEAAXXZ) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl QByteArray::operator char const *(void)const " (__imp_??BQByteArray@@QEBAPEBDXZ)，函数 "public: void __cdecl MainWindow::openXRay(void)" (?openXRay@MainWindow@@QEAAXXZ) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl QString::QString(void)" (__imp_??0QString@@QEAA@XZ)，函数 "public: void __cdecl MainWindow::openCT(void)" (?openCT@MainWindow@@QEAAXXZ) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl QString::QString(class QString const &)" (__imp_??0QString@@QEAA@AEBV0@@Z)，函数 "private: void __cdecl QList<class QString>::node_copy(struct QList<class QString>::Node *,struct QList<class QString>::Node *,struct QList<class QString>::Node *)" (?node_copy@?$QList@VQString@@@@AEAAXPEAUNode@1@00@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: class QString & __cdecl QString::operator=(class QString const &)" (__imp_??4QString@@QEAAAEAV0@AEBV0@@Z)，函数 "public: void __cdecl MainWindow::openCT(void)" (?openCT@MainWindow@@QEAAXXZ) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: bool __cdecl QString::isEmpty(void)const " (__imp_?isEmpty@QString@@QEBA_NXZ)，函数 "public: void __cdecl Ui_MainWindowClass::setupUi(class QMainWindow *)" (?setupUi@Ui_MainWindowClass@@QEAAXPEAVQMainWindow@@@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: class QString __cdecl QString::toUpper(void)const & " (__imp_?toUpper@QString@@QEGBA?AV1@XZ)，函数 "public: void __cdecl MainWindow::openCT(void)" (?openCT@MainWindow@@QEAAXXZ) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: class QByteArray __cdecl QString::toLocal8Bit(void)const & " (__imp_?toLocal8Bit@QString@@QEGBA?AVQByteArray@@XZ)，函数 "public: void __cdecl MainWindow::openXRay(void)" (?openXRay@MainWindow@@QEAAXXZ) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: static class QString __cdecl QString::fromUtf8(char const *,int)" (__imp_?fromUtf8@QString@@SA?AV1@PEBDH@Z)，函数 "public: void __cdecl Ui_MainWindowClass::setupUi(class QMainWindow *)" (?setupUi@Ui_MainWindowClass@@QEAAXPEAVQMainWindow@@@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: static class QString __cdecl QString::fromLocal8Bit(char const *,int)" (__imp_?fromLocal8Bit@QString@@SA?AV1@PEBDH@Z)，函数 "public: void __cdecl MainWindow::openCT(void)" (?openCT@MainWindow@@QEAAXXZ) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: double __cdecl QString::toDouble(bool *)const " (__imp_?toDouble@QString@@QEBANPEA_N@Z)，函数 "public: void __cdecl MainWindow::EO(void)" (?EO@MainWindow@@QEAAXXZ) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: static class QString __cdecl QString::number(int,int)" (__imp_?number@QString@@SA?AV1@HH@Z)，函数 "public: void __cdecl MainWindow::batch(void)" (?batch@MainWindow@@QEAAXXZ) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: static class QString __cdecl QString::number(double,char,int)" (__imp_?number@QString@@SA?AV1@NDH@Z)，函数 "public: void __cdecl MainWindow::updateParam(void)" (?updateParam@MainWindow@@QEAAXXZ) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: static class QString __cdecl QString::fromStdString(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (__imp_?fromStdString@QString@@SA?AV1@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)，函数 "public: void __cdecl MainWindow::openXRay(void)" (?openXRay@MainWindow@@QEAAXXZ) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl QString::QString(struct QStringDataPtr)" (__imp_??0QString@@QEAA@UQStringDataPtr@@@Z)，函数 "public: class QString __cdecl <lambda_1f5f0593e32d65973549452919834370>::operator()(void)const " (??R<lambda_1f5f0593e32d65973549452919834370>@@QEBA?AVQString@@XZ) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: struct QListData::Data * __cdecl QListData::detach(int)" (__imp_?detach@QListData@@QEAAPEAUData@1@H@Z)，函数 "private: void __cdecl QList<class QString>::detach_helper(int)" (?detach_helper@?$QList@VQString@@@@AEAAXH@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl QListData::dispose(void)" (__imp_?dispose@QListData@@QEAAXXZ)，函数 __catch$?detach_helper@?$QList@VQString@@@@AEAAXH@Z$0 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: static void __cdecl QListData::dispose(struct QListData::Data *)" (__imp_?dispose@QListData@@SAXPEAUData@1@@Z)，函数 "private: void __cdecl QList<class QFileInfo>::dealloc(struct QListData::Data *)" (?dealloc@?$QList@VQFileInfo@@@@AEAAXPEAUData@QListData@@@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: int __cdecl QListData::size(void)const " (__imp_?size@QListData@@QEBAHXZ)，函数 "public: class QString & __cdecl QList<class QString>::operator[](int)" (??A?$QList@VQString@@@@QEAAAEAVQString@@H@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void * * __cdecl QListData::at(int)const " (__imp_?at@QListData@@QEBAPEAPEAXH@Z)，函数 "public: class QString & __cdecl QList<class QString>::operator[](int)" (??A?$QList@VQString@@@@QEAAAEAVQString@@H@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void * * __cdecl QListData::begin(void)const " (__imp_?begin@QListData@@QEBAPEAPEAXXZ)，函数 "private: void __cdecl QList<class QString>::detach_helper(int)" (?detach_helper@?$QList@VQString@@@@AEAAXH@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void * * __cdecl QListData::end(void)const " (__imp_?end@QListData@@QEBAPEAPEAXXZ)，函数 "private: void __cdecl QList<class QString>::detach_helper(int)" (?detach_helper@?$QList@VQString@@@@AEAAXH@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: class QString __cdecl QObject::objectName(void)const " (__imp_?objectName@QObject@@QEBA?AVQString@@XZ)，函数 "public: void __cdecl Ui_MainWindowClass::setupUi(class QMainWindow *)" (?setupUi@Ui_MainWindowClass@@QEAAXPEAVQMainWindow@@@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl QObject::setObjectName(class QString const &)" (__imp_?setObjectName@QObject@@QEAAXAEBVQString@@@Z)，函数 "public: void __cdecl Ui_MainWindowClass::setupUi(class QMainWindow *)" (?setupUi@Ui_MainWindowClass@@QEAAXPEAVQMainWindow@@@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: static class QMetaObject::Connection __cdecl QObject::connect(class QObject const *,char const *,class QObject const *,char const *,enum Qt::ConnectionType)" (__imp_?connect@QObject@@SA?AVConnection@QMetaObject@@PEBV1@PEBD01W4ConnectionType@Qt@@@Z)，函数 "public: __cdecl MainWindow::MainWindow(class QWidget *)" (??0MainWindow@@QEAA@PEAVQWidget@@@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl QSize::QSize(int,int)" (__imp_??0QSize@@QEAA@HH@Z)，函数 "public: void __cdecl Ui_MainWindowClass::setupUi(class QMainWindow *)" (?setupUi@Ui_MainWindowClass@@QEAAXPEAVQMainWindow@@@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl QRect::QRect(int,int,int,int)" (__imp_??0QRect@@QEAA@HHHH@Z)，函数 "public: void __cdecl Ui_MainWindowClass::setupUi(class QMainWindow *)" (?setupUi@Ui_MainWindowClass@@QEAAXPEAVQMainWindow@@@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl QColor::QColor(int,int,int,int)" (__imp_??0QColor@@QEAA@HHHH@Z)，函数 "public: void __cdecl Ui_MainWindowClass::setupUi(class QMainWindow *)" (?setupUi@Ui_MainWindowClass@@QEAAXPEAVQMainWindow@@@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: static class QPixmap __cdecl QPixmap::fromImage(class QImage &&,class QFlags<enum Qt::ImageConversionFlag>)" (__imp_?fromImage@QPixmap@@SA?AV1@$$QEAVQImage@@V?$QFlags@W4ImageConversionFlag@Qt@@@@@Z)，函数 "public: void __cdecl MainWindow::openCT(void)" (?openCT@MainWindow@@QEAAXXZ) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl QBrush::QBrush(class QColor const &,enum Qt::BrushStyle)" (__imp_??0QBrush@@QEAA@AEBVQColor@@W4BrushStyle@Qt@@@Z)，函数 "public: void __cdecl Ui_MainWindowClass::setupUi(class QMainWindow *)" (?setupUi@Ui_MainWindowClass@@QEAAXPEAVQMainWindow@@@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl QBrush::~QBrush(void)" (__imp_??1QBrush@@QEAA@XZ)，函数 "public: void __cdecl Ui_MainWindowClass::setupUi(class QMainWindow *)" (?setupUi@Ui_MainWindowClass@@QEAAXPEAVQMainWindow@@@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl QBrush::setStyle(enum Qt::BrushStyle)" (__imp_?setStyle@QBrush@@QEAAXW4BrushStyle@Qt@@@Z)，函数 "public: void __cdecl Ui_MainWindowClass::setupUi(class QMainWindow *)" (?setupUi@Ui_MainWindowClass@@QEAAXPEAVQMainWindow@@@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl QPalette::QPalette(void)" (__imp_??0QPalette@@QEAA@XZ)，函数 "public: void __cdecl Ui_MainWindowClass::setupUi(class QMainWindow *)" (?setupUi@Ui_MainWindowClass@@QEAAXPEAVQMainWindow@@@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl QPalette::~QPalette(void)" (__imp_??1QPalette@@QEAA@XZ)，函数 "public: void __cdecl Ui_MainWindowClass::setupUi(class QMainWindow *)" (?setupUi@Ui_MainWindowClass@@QEAAXPEAVQMainWindow@@@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl QPalette::setBrush(enum QPalette::ColorGroup,enum QPalette::ColorRole,class QBrush const &)" (__imp_?setBrush@QPalette@@QEAAXW4ColorGroup@1@W4ColorRole@1@AEBVQBrush@@@Z)，函数 "public: void __cdecl Ui_MainWindowClass::setupUi(class QMainWindow *)" (?setupUi@Ui_MainWindowClass@@QEAAXPEAVQMainWindow@@@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl QFont::QFont(void)" (__imp_??0QFont@@QEAA@XZ)，函数 "public: void __cdecl Ui_MainWindowClass::setupUi(class QMainWindow *)" (?setupUi@Ui_MainWindowClass@@QEAAXPEAVQMainWindow@@@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl QFont::~QFont(void)" (__imp_??1QFont@@QEAA@XZ)，函数 "public: void __cdecl Ui_MainWindowClass::setupUi(class QMainWindow *)" (?setupUi@Ui_MainWindowClass@@QEAAXPEAVQMainWindow@@@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl QFont::setPointSize(int)" (__imp_?setPointSize@QFont@@QEAAXH@Z)，函数 "public: void __cdecl Ui_MainWindowClass::setupUi(class QMainWindow *)" (?setupUi@Ui_MainWindowClass@@QEAAXPEAVQMainWindow@@@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl QFont::setWeight(int)" (__imp_?setWeight@QFont@@QEAAXH@Z)，函数 "public: void __cdecl Ui_MainWindowClass::setupUi(class QMainWindow *)" (?setupUi@Ui_MainWindowClass@@QEAAXPEAVQMainWindow@@@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl QFont::setBold(bool)" (__imp_?setBold@QFont@@QEAAX_N@Z)，函数 "public: void __cdecl Ui_MainWindowClass::setupUi(class QMainWindow *)" (?setupUi@Ui_MainWindowClass@@QEAAXPEAVQMainWindow@@@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl QFont::setItalic(bool)" (__imp_?setItalic@QFont@@QEAAX_N@Z)，函数 "public: void __cdecl Ui_MainWindowClass::setupUi(class QMainWindow *)" (?setupUi@Ui_MainWindowClass@@QEAAXPEAVQMainWindow@@@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl QCursor::QCursor(enum Qt::CursorShape)" (__imp_??0QCursor@@QEAA@W4CursorShape@Qt@@@Z)，函数 "public: void __cdecl Ui_MainWindowClass::setupUi(class QMainWindow *)" (?setupUi@Ui_MainWindowClass@@QEAAXPEAVQMainWindow@@@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl QCursor::~QCursor(void)" (__imp_??1QCursor@@QEAA@XZ)，函数 "public: void __cdecl Ui_MainWindowClass::setupUi(class QMainWindow *)" (?setupUi@Ui_MainWindowClass@@QEAAXPEAVQMainWindow@@@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl QWidget::QWidget(class QWidget *,class QFlags<enum Qt::WindowType>)" (__imp_??0QWidget@@QEAA@PEAV0@V?$QFlags@W4WindowType@Qt@@@@@Z)，函数 "public: void __cdecl Ui_MainWindowClass::setupUi(class QMainWindow *)" (?setupUi@Ui_MainWindowClass@@QEAAXPEAVQMainWindow@@@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: virtual __cdecl QWidget::~QWidget(void)" (__imp_??1QWidget@@UEAA@XZ)，函数 "public: virtual void * __cdecl QWidget::`scalar deleting destructor'(unsigned int)" (??_GQWidget@@UEAAPEAXI@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl QWidget::setWindowModality(enum Qt::WindowModality)" (__imp_?setWindowModality@QWidget@@QEAAXW4WindowModality@Qt@@@Z)，函数 "public: void __cdecl Ui_MainWindowClass::setupUi(class QMainWindow *)" (?setupUi@Ui_MainWindowClass@@QEAAXPEAVQMainWindow@@@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl QWidget::setEnabled(bool)" (__imp_?setEnabled@QWidget@@QEAAX_N@Z)，函数 "public: void __cdecl Ui_MainWindowClass::setupUi(class QMainWindow *)" (?setupUi@Ui_MainWindowClass@@QEAAXPEAVQMainWindow@@@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl QWidget::setMinimumSize(class QSize const &)" (__imp_?setMinimumSize@QWidget@@QEAAXAEBVQSize@@@Z)，函数 "public: void __cdecl Ui_MainWindowClass::setupUi(class QMainWindow *)" (?setupUi@Ui_MainWindowClass@@QEAAXPEAVQMainWindow@@@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl QWidget::setPalette(class QPalette const &)" (__imp_?setPalette@QWidget@@QEAAXAEBVQPalette@@@Z)，函数 "public: void __cdecl Ui_MainWindowClass::setupUi(class QMainWindow *)" (?setupUi@Ui_MainWindowClass@@QEAAXPEAVQMainWindow@@@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl QWidget::setFont(class QFont const &)" (__imp_?setFont@QWidget@@QEAAXAEBVQFont@@@Z)，函数 "public: void __cdecl Ui_MainWindowClass::setupUi(class QMainWindow *)" (?setupUi@Ui_MainWindowClass@@QEAAXPEAVQMainWindow@@@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl QWidget::setCursor(class QCursor const &)" (__imp_?setCursor@QWidget@@QEAAXAEBVQCursor@@@Z)，函数 "public: void __cdecl Ui_MainWindowClass::setupUi(class QMainWindow *)" (?setupUi@Ui_MainWindowClass@@QEAAXPEAVQMainWindow@@@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl QWidget::setWindowTitle(class QString const &)" (__imp_?setWindowTitle@QWidget@@QEAAXAEBVQString@@@Z)，函数 "public: void __cdecl MainWindow::openCT(void)" (?openCT@MainWindow@@QEAAXXZ) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl QWidget::setHidden(bool)" (__imp_?setHidden@QWidget@@QEAAX_N@Z)，函数 "public: __cdecl MainWindow::MainWindow(class QWidget *)" (??0MainWindow@@QEAA@PEAVQWidget@@@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl QWidget::show(void)" (__imp_?show@QWidget@@QEAAXXZ)，函数 "public: void __cdecl MainWindow::openCT(void)" (?openCT@MainWindow@@QEAAXXZ) 中引用了该符号
+main.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl QWidget::show(void)" (__imp_?show@QWidget@@QEAAXXZ)
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl QWidget::setGeometry(int,int,int,int)" (__imp_?setGeometry@QWidget@@QEAAXHHHH@Z)，函数 "public: __cdecl MainWindow::MainWindow(class QWidget *)" (??0MainWindow@@QEAA@PEAVQWidget@@@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl QMainWindow::QMainWindow(class QWidget *,class QFlags<enum Qt::WindowType>)" (__imp_??0QMainWindow@@QEAA@PEAVQWidget@@V?$QFlags@W4WindowType@Qt@@@@@Z)，函数 "public: __cdecl MainWindow::MainWindow(class QWidget *)" (??0MainWindow@@QEAA@PEAVQWidget@@@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: virtual __cdecl QMainWindow::~QMainWindow(void)" (__imp_??1QMainWindow@@UEAA@XZ)，函数 "int `public: __cdecl MainWindow::MainWindow(class QWidget *)'::`1'::dtor$0" (?dtor$0@?0???0MainWindow@@QEAA@PEAVQWidget@@@Z@4HA) 中引用了该符号
+main.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: virtual __cdecl QMainWindow::~QMainWindow(void)" (__imp_??1QMainWindow@@UEAA@XZ)
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl QMainWindow::setStatusBar(class QStatusBar *)" (__imp_?setStatusBar@QMainWindow@@QEAAXPEAVQStatusBar@@@Z)，函数 "public: void __cdecl Ui_MainWindowClass::setupUi(class QMainWindow *)" (?setupUi@Ui_MainWindowClass@@QEAAXPEAVQMainWindow@@@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl QMainWindow::setCentralWidget(class QWidget *)" (__imp_?setCentralWidget@QMainWindow@@QEAAXPEAVQWidget@@@Z)，函数 "public: void __cdecl Ui_MainWindowClass::setupUi(class QMainWindow *)" (?setupUi@Ui_MainWindowClass@@QEAAXPEAVQMainWindow@@@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl QMainWindow::addToolBar(enum Qt::ToolBarArea,class QToolBar *)" (__imp_?addToolBar@QMainWindow@@QEAAXW4ToolBarArea@Qt@@PEAVQToolBar@@@Z)，函数 "public: void __cdecl Ui_MainWindowClass::setupUi(class QMainWindow *)" (?setupUi@Ui_MainWindowClass@@QEAAXPEAVQMainWindow@@@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl QVariant::QVariant(void)" (__imp_??0QVariant@@QEAA@XZ)，函数 "public: void __cdecl Ui_MainWindowClass::setupUi(class QMainWindow *)" (?setupUi@Ui_MainWindowClass@@QEAAXPEAVQMainWindow@@@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl QVariant::~QVariant(void)" (__imp_??1QVariant@@QEAA@XZ)，函数 "public: void __cdecl Ui_MainWindowClass::setupUi(class QMainWindow *)" (?setupUi@Ui_MainWindowClass@@QEAAXPEAVQMainWindow@@@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: static class QString __cdecl QCoreApplication::translate(char const *,char const *,char const *,int)" (__imp_?translate@QCoreApplication@@SA?AVQString@@PEBD00H@Z)，函数 "public: void __cdecl Ui_MainWindowClass::retranslateUi(class QMainWindow *)" (?retranslateUi@Ui_MainWindowClass@@QEAAXPEAVQMainWindow@@@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl QComboBox::QComboBox(class QWidget *)" (__imp_??0QComboBox@@QEAA@PEAVQWidget@@@Z)，函数 "public: void __cdecl Ui_MainWindowClass::setupUi(class QMainWindow *)" (?setupUi@Ui_MainWindowClass@@QEAAXPEAVQMainWindow@@@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: virtual __cdecl QComboBox::~QComboBox(void)" (__imp_??1QComboBox@@UEAA@XZ)，函数 "public: virtual void * __cdecl QComboBox::`scalar deleting destructor'(unsigned int)" (??_GQComboBox@@UEAAPEAXI@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: int __cdecl QComboBox::currentIndex(void)const " (__imp_?currentIndex@QComboBox@@QEBAHXZ)，函数 "public: void __cdecl MainWindow::setAlgorithm(void)" (?setAlgorithm@MainWindow@@QEAAXXZ) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl QComboBox::addItem(class QString const &,class QVariant const &)" (__imp_?addItem@QComboBox@@QEAAXAEBVQString@@AEBVQVariant@@@Z)，函数 "public: void __cdecl Ui_MainWindowClass::setupUi(class QMainWindow *)" (?setupUi@Ui_MainWindowClass@@QEAAXPEAVQMainWindow@@@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl QComboBox::setItemText(int,class QString const &)" (__imp_?setItemText@QComboBox@@QEAAXHAEBVQString@@@Z)，函数 "public: void __cdecl Ui_MainWindowClass::retranslateUi(class QMainWindow *)" (?retranslateUi@Ui_MainWindowClass@@QEAAXPEAVQMainWindow@@@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl QComboBox::setCurrentText(class QString const &)" (__imp_?setCurrentText@QComboBox@@QEAAXAEBVQString@@@Z)，函数 "public: void __cdecl Ui_MainWindowClass::retranslateUi(class QMainWindow *)" (?retranslateUi@Ui_MainWindowClass@@QEAAXPEAVQMainWindow@@@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl QLayout::setContentsMargins(int,int,int,int)" (__imp_?setContentsMargins@QLayout@@QEAAXHHHH@Z)，函数 "public: void __cdecl Ui_MainWindowClass::setupUi(class QMainWindow *)" (?setupUi@Ui_MainWindowClass@@QEAAXPEAVQMainWindow@@@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl QBoxLayout::addWidget(class QWidget *,int,class QFlags<enum Qt::AlignmentFlag>)" (__imp_?addWidget@QBoxLayout@@QEAAXPEAVQWidget@@HV?$QFlags@W4AlignmentFlag@Qt@@@@@Z)，函数 "public: void __cdecl Ui_MainWindowClass::setupUi(class QMainWindow *)" (?setupUi@Ui_MainWindowClass@@QEAAXPEAVQMainWindow@@@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl QBoxLayout::setSpacing(int)" (__imp_?setSpacing@QBoxLayout@@QEAAXH@Z)，函数 "public: void __cdecl Ui_MainWindowClass::setupUi(class QMainWindow *)" (?setupUi@Ui_MainWindowClass@@QEAAXPEAVQMainWindow@@@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl QHBoxLayout::QHBoxLayout(class QWidget *)" (__imp_??0QHBoxLayout@@QEAA@PEAVQWidget@@@Z)，函数 "public: void __cdecl Ui_MainWindowClass::setupUi(class QMainWindow *)" (?setupUi@Ui_MainWindowClass@@QEAAXPEAVQMainWindow@@@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: virtual __cdecl QHBoxLayout::~QHBoxLayout(void)" (__imp_??1QHBoxLayout@@UEAA@XZ)，函数 "public: virtual void * __cdecl QHBoxLayout::`scalar deleting destructor'(unsigned int)" (??_GQHBoxLayout@@UEAAPEAXI@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl QGridLayout::QGridLayout(class QWidget *)" (__imp_??0QGridLayout@@QEAA@PEAVQWidget@@@Z)，函数 "public: void __cdecl Ui_MainWindowClass::setupUi(class QMainWindow *)" (?setupUi@Ui_MainWindowClass@@QEAAXPEAVQMainWindow@@@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: virtual __cdecl QGridLayout::~QGridLayout(void)" (__imp_??1QGridLayout@@UEAA@XZ)，函数 "public: virtual void * __cdecl QGridLayout::`scalar deleting destructor'(unsigned int)" (??_GQGridLayout@@UEAAPEAXI@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl QGridLayout::setSpacing(int)" (__imp_?setSpacing@QGridLayout@@QEAAXH@Z)，函数 "public: void __cdecl Ui_MainWindowClass::setupUi(class QMainWindow *)" (?setupUi@Ui_MainWindowClass@@QEAAXPEAVQMainWindow@@@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl QGridLayout::addWidget(class QWidget *,int,int,int,int,class QFlags<enum Qt::AlignmentFlag>)" (__imp_?addWidget@QGridLayout@@QEAAXPEAVQWidget@@HHHHV?$QFlags@W4AlignmentFlag@Qt@@@@@Z)，函数 "public: void __cdecl Ui_MainWindowClass::setupUi(class QMainWindow *)" (?setupUi@Ui_MainWindowClass@@QEAAXPEAVQMainWindow@@@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl QLabel::setTextFormat(enum Qt::TextFormat)" (__imp_?setTextFormat@QLabel@@QEAAXW4TextFormat@Qt@@@Z)，函数 "public: void __cdecl Ui_MainWindowClass::setupUi(class QMainWindow *)" (?setupUi@Ui_MainWindowClass@@QEAAXPEAVQMainWindow@@@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl QLabel::setAlignment(class QFlags<enum Qt::AlignmentFlag>)" (__imp_?setAlignment@QLabel@@QEAAXV?$QFlags@W4AlignmentFlag@Qt@@@@@Z)，函数 "public: void __cdecl Ui_MainWindowClass::setupUi(class QMainWindow *)" (?setupUi@Ui_MainWindowClass@@QEAAXPEAVQMainWindow@@@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl QLabel::setText(class QString const &)" (__imp_?setText@QLabel@@QEAAXAEBVQString@@@Z)，函数 "public: void __cdecl Ui_MainWindowClass::retranslateUi(class QMainWindow *)" (?retranslateUi@Ui_MainWindowClass@@QEAAXPEAVQMainWindow@@@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl QLineEdit::QLineEdit(class QWidget *)" (__imp_??0QLineEdit@@QEAA@PEAVQWidget@@@Z)，函数 "public: void __cdecl Ui_MainWindowClass::setupUi(class QMainWindow *)" (?setupUi@Ui_MainWindowClass@@QEAAXPEAVQMainWindow@@@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: virtual __cdecl QLineEdit::~QLineEdit(void)" (__imp_??1QLineEdit@@UEAA@XZ)，函数 "public: virtual void * __cdecl QLineEdit::`scalar deleting destructor'(unsigned int)" (??_GQLineEdit@@UEAAPEAXI@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: class QString __cdecl QLineEdit::text(void)const " (__imp_?text@QLineEdit@@QEBA?AVQString@@XZ)，函数 "public: void __cdecl MainWindow::EO(void)" (?EO@MainWindow@@QEAAXXZ) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl QLineEdit::setClearButtonEnabled(bool)" (__imp_?setClearButtonEnabled@QLineEdit@@QEAAX_N@Z)，函数 "public: void __cdecl Ui_MainWindowClass::setupUi(class QMainWindow *)" (?setupUi@Ui_MainWindowClass@@QEAAXPEAVQMainWindow@@@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl QLineEdit::setText(class QString const &)" (__imp_?setText@QLineEdit@@QEAAXAEBVQString@@@Z)，函数 "public: void __cdecl MainWindow::batch(void)" (?batch@MainWindow@@QEAAXXZ) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl QProgressBar::QProgressBar(class QWidget *)" (__imp_??0QProgressBar@@QEAA@PEAVQWidget@@@Z)，函数 "public: void __cdecl Ui_MainWindowClass::setupUi(class QMainWindow *)" (?setupUi@Ui_MainWindowClass@@QEAAXPEAVQMainWindow@@@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: virtual __cdecl QProgressBar::~QProgressBar(void)" (__imp_??1QProgressBar@@UEAA@XZ)，函数 "public: virtual void * __cdecl QProgressBar::`scalar deleting destructor'(unsigned int)" (??_GQProgressBar@@UEAAPEAXI@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl QProgressBar::setMaximum(int)" (__imp_?setMaximum@QProgressBar@@QEAAXH@Z)，函数 "public: void __cdecl Ui_MainWindowClass::setupUi(class QMainWindow *)" (?setupUi@Ui_MainWindowClass@@QEAAXPEAVQMainWindow@@@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl QProgressBar::setValue(int)" (__imp_?setValue@QProgressBar@@QEAAXH@Z)，函数 "public: void __cdecl Ui_MainWindowClass::setupUi(class QMainWindow *)" (?setupUi@Ui_MainWindowClass@@QEAAXPEAVQMainWindow@@@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl QAbstractButton::setText(class QString const &)" (__imp_?setText@QAbstractButton@@QEAAXAEBVQString@@@Z)，函数 "public: void __cdecl Ui_MainWindowClass::retranslateUi(class QMainWindow *)" (?retranslateUi@Ui_MainWindowClass@@QEAAXPEAVQMainWindow@@@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl QPushButton::QPushButton(class QWidget *)" (__imp_??0QPushButton@@QEAA@PEAVQWidget@@@Z)，函数 "public: void __cdecl Ui_MainWindowClass::setupUi(class QMainWindow *)" (?setupUi@Ui_MainWindowClass@@QEAAXPEAVQMainWindow@@@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: virtual __cdecl QPushButton::~QPushButton(void)" (__imp_??1QPushButton@@UEAA@XZ)，函数 "public: virtual void * __cdecl QPushButton::`scalar deleting destructor'(unsigned int)" (??_GQPushButton@@UEAAPEAXI@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl QStatusBar::QStatusBar(class QWidget *)" (__imp_??0QStatusBar@@QEAA@PEAVQWidget@@@Z)，函数 "public: void __cdecl Ui_MainWindowClass::setupUi(class QMainWindow *)" (?setupUi@Ui_MainWindowClass@@QEAAXPEAVQMainWindow@@@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: virtual __cdecl QStatusBar::~QStatusBar(void)" (__imp_??1QStatusBar@@UEAA@XZ)，函数 "public: virtual void * __cdecl QStatusBar::`scalar deleting destructor'(unsigned int)" (??_GQStatusBar@@UEAAPEAXI@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl QToolBar::QToolBar(class QWidget *)" (__imp_??0QToolBar@@QEAA@PEAVQWidget@@@Z)，函数 "public: void __cdecl Ui_MainWindowClass::setupUi(class QMainWindow *)" (?setupUi@Ui_MainWindowClass@@QEAAXPEAVQMainWindow@@@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: virtual __cdecl QToolBar::~QToolBar(void)" (__imp_??1QToolBar@@UEAA@XZ)，函数 "public: virtual void * __cdecl QToolBar::`scalar deleting destructor'(unsigned int)" (??_GQToolBar@@UEAAPEAXI@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) class QTextStream & __cdecl QTextStreamFunctions::endl(class QTextStream &)" (__imp_?endl@QTextStreamFunctions@@YAAEAVQTextStream@@AEAV2@@Z)，函数 "public: void __cdecl MainWindow::openXRay(void)" (?openXRay@MainWindow@@QEAAXXZ) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl QDebug::~QDebug(void)" (__imp_??1QDebug@@QEAA@XZ)，函数 "public: void __cdecl MainWindow::openXRay(void)" (?openXRay@MainWindow@@QEAAXXZ) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: class QDebug & __cdecl QDebug::operator<<(char const *)" (__imp_??6QDebug@@QEAAAEAV0@PEBD@Z)，函数 "public: void __cdecl MainWindow::registration(void)" (?registration@MainWindow@@QEAAXXZ) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: class QDebug & __cdecl QDebug::operator<<(class QString const &)" (__imp_??6QDebug@@QEAAAEAV0@AEBVQString@@@Z)，函数 "public: void __cdecl MainWindow::openXRay(void)" (?openXRay@MainWindow@@QEAAXXZ) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: class QDebug & __cdecl QDebug::operator<<(class QTextStream & (__cdecl*)(class QTextStream &))" (__imp_??6QDebug@@QEAAAEAV0@P6AAEAVQTextStream@@AEAV1@@Z@Z)，函数 "public: void __cdecl MainWindow::openXRay(void)" (?openXRay@MainWindow@@QEAAXXZ) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl QFileInfo::QFileInfo(class QFileInfo const &)" (__imp_??0QFileInfo@@QEAA@AEBV0@@Z)，函数 "public: void __cdecl MainWindow::openCT(void)" (?openCT@MainWindow@@QEAAXXZ) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl QFileInfo::~QFileInfo(void)" (__imp_??1QFileInfo@@QEAA@XZ)，函数 "public: void * __cdecl QFileInfo::`scalar deleting destructor'(unsigned int)" (??_GQFileInfo@@QEAAPEAXI@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: class QString __cdecl QFileInfo::suffix(void)const " (__imp_?suffix@QFileInfo@@QEBA?AVQString@@XZ)，函数 "public: void __cdecl MainWindow::openCT(void)" (?openCT@MainWindow@@QEAAXXZ) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl QDir::QDir(class QString const &)" (__imp_??0QDir@@QEAA@AEBVQString@@@Z)，函数 "public: void __cdecl MainWindow::openCT(void)" (?openCT@MainWindow@@QEAAXXZ) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl QDir::~QDir(void)" (__imp_??1QDir@@QEAA@XZ)，函数 "public: void __cdecl MainWindow::openCT(void)" (?openCT@MainWindow@@QEAAXXZ) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: class QList<class QFileInfo> __cdecl QDir::entryInfoList(class QFlags<enum QDir::Filter>,class QFlags<enum QDir::SortFlag>)const " (__imp_?entryInfoList@QDir@@QEBA?AV?$QList@VQFileInfo@@@@V?$QFlags@W4Filter@QDir@@@@V?$QFlags@W4SortFlag@QDir@@@@@Z)，函数 "public: void __cdecl MainWindow::openCT(void)" (?openCT@MainWindow@@QEAAXXZ) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: static enum QMessageBox::StandardButton __cdecl QMessageBox::information(class QWidget *,class QString const &,class QString const &,class QFlags<enum QMessageBox::StandardButton>,enum QMessageBox::StandardButton)" (__imp_?information@QMessageBox@@SA?AW4StandardButton@1@PEAVQWidget@@AEBVQString@@1V?$QFlags@W4StandardButton@QMessageBox@@@@W421@@Z)，函数 "public: void __cdecl MainWindow::openCT(void)" (?openCT@MainWindow@@QEAAXXZ) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: static enum QMessageBox::StandardButton __cdecl QMessageBox::warning(class QWidget *,class QString const &,class QString const &,class QFlags<enum QMessageBox::StandardButton>,enum QMessageBox::StandardButton)" (__imp_?warning@QMessageBox@@SA?AW4StandardButton@1@PEAVQWidget@@AEBVQString@@1V?$QFlags@W4StandardButton@QMessageBox@@@@W421@@Z)，函数 "public: void __cdecl MainWindow::openCT(void)" (?openCT@MainWindow@@QEAAXXZ) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl QFileDialog::QFileDialog(class QWidget *,class QString const &,class QString const &,class QString const &)" (__imp_??0QFileDialog@@QEAA@PEAVQWidget@@AEBVQString@@11@Z)，函数 "public: void __cdecl MainWindow::openCT(void)" (?openCT@MainWindow@@QEAAXXZ) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: virtual __cdecl QFileDialog::~QFileDialog(void)" (__imp_??1QFileDialog@@UEAA@XZ)，函数 "public: virtual void * __cdecl QFileDialog::`scalar deleting destructor'(unsigned int)" (??_GQFileDialog@@UEAAPEAXI@Z) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl QFileDialog::setDirectory(class QString const &)" (__imp_?setDirectory@QFileDialog@@QEAAXAEBVQString@@@Z)，函数 "public: void __cdecl MainWindow::openCT(void)" (?openCT@MainWindow@@QEAAXXZ) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: class QStringList __cdecl QFileDialog::selectedFiles(void)const " (__imp_?selectedFiles@QFileDialog@@QEBA?AVQStringList@@XZ)，函数 "public: void __cdecl MainWindow::openCT(void)" (?openCT@MainWindow@@QEAAXXZ) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl QFileDialog::setNameFilter(class QString const &)" (__imp_?setNameFilter@QFileDialog@@QEAAXAEBVQString@@@Z)，函数 "public: void __cdecl MainWindow::openXRay(void)" (?openXRay@MainWindow@@QEAAXXZ) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl QFileDialog::setViewMode(enum QFileDialog::ViewMode)" (__imp_?setViewMode@QFileDialog@@QEAAXW4ViewMode@1@@Z)，函数 "public: void __cdecl MainWindow::openCT(void)" (?openCT@MainWindow@@QEAAXXZ) 中引用了该符号
+MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __cdecl QFileDialog::setFileMode(enum QFileDialog::FileMode)" (__imp_?setFileMode@QFileDialog@@QEAAXW4FileMode@1@@Z)，函数 "public: void __cdecl MainWindow::openCT(void)" (?openCT@MainWindow@@QEAAXXZ) 中引用了该符号
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual struct QMetaObject const * __cdecl QLabel::metaObject(void)const " (?metaObject@QLabel@@UEBAPEBUQMetaObject@@XZ)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual void * __cdecl QLabel::qt_metacast(char const *)" (?qt_metacast@QLabel@@UEAAPEAXPEBD@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual int __cdecl QLabel::qt_metacall(enum QMetaObject::Call,int,void * *)" (?qt_metacall@QLabel@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QLabel::mousePressEvent(class QMouseEvent *)" (?mousePressEvent@QLabel@@MEAAXPEAVQMouseEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QLabel::mouseMoveEvent(class QMouseEvent *)" (?mouseMoveEvent@QLabel@@MEAAXPEAVQMouseEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QLabel::mouseReleaseEvent(class QMouseEvent *)" (?mouseReleaseEvent@QLabel@@MEAAXPEAVQMouseEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual struct QMetaObject const * __cdecl QComboBox::metaObject(void)const " (?metaObject@QComboBox@@UEBAPEBUQMetaObject@@XZ)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual void * __cdecl QComboBox::qt_metacast(char const *)" (?qt_metacast@QComboBox@@UEAAPEAXPEBD@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual int __cdecl QComboBox::qt_metacall(enum QMetaObject::Call,int,void * *)" (?qt_metacall@QComboBox@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual class QSize __cdecl QComboBox::sizeHint(void)const " (?sizeHint@QComboBox@@UEBA?AVQSize@@XZ)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual class QSize __cdecl QComboBox::minimumSizeHint(void)const " (?minimumSizeHint@QComboBox@@UEBA?AVQSize@@XZ)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual void __cdecl QComboBox::showPopup(void)" (?showPopup@QComboBox@@UEAAXXZ)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual void __cdecl QComboBox::hidePopup(void)" (?hidePopup@QComboBox@@UEAAXXZ)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual bool __cdecl QComboBox::event(class QEvent *)" (?event@QComboBox@@UEAA_NPEAVQEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual class QVariant __cdecl QComboBox::inputMethodQuery(enum Qt::InputMethodQuery)const " (?inputMethodQuery@QComboBox@@UEBA?AVQVariant@@W4InputMethodQuery@Qt@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QComboBox::focusInEvent(class QFocusEvent *)" (?focusInEvent@QComboBox@@MEAAXPEAVQFocusEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QComboBox::focusOutEvent(class QFocusEvent *)" (?focusOutEvent@QComboBox@@MEAAXPEAVQFocusEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QComboBox::changeEvent(class QEvent *)" (?changeEvent@QComboBox@@MEAAXPEAVQEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QComboBox::resizeEvent(class QResizeEvent *)" (?resizeEvent@QComboBox@@MEAAXPEAVQResizeEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QComboBox::paintEvent(class QPaintEvent *)" (?paintEvent@QComboBox@@MEAAXPEAVQPaintEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QComboBox::showEvent(class QShowEvent *)" (?showEvent@QComboBox@@MEAAXPEAVQShowEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QComboBox::hideEvent(class QHideEvent *)" (?hideEvent@QComboBox@@MEAAXPEAVQHideEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QComboBox::mousePressEvent(class QMouseEvent *)" (?mousePressEvent@QComboBox@@MEAAXPEAVQMouseEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QComboBox::mouseReleaseEvent(class QMouseEvent *)" (?mouseReleaseEvent@QComboBox@@MEAAXPEAVQMouseEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QComboBox::keyPressEvent(class QKeyEvent *)" (?keyPressEvent@QComboBox@@MEAAXPEAVQKeyEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QComboBox::keyReleaseEvent(class QKeyEvent *)" (?keyReleaseEvent@QComboBox@@MEAAXPEAVQKeyEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QComboBox::wheelEvent(class QWheelEvent *)" (?wheelEvent@QComboBox@@MEAAXPEAVQWheelEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QComboBox::contextMenuEvent(class QContextMenuEvent *)" (?contextMenuEvent@QComboBox@@MEAAXPEAVQContextMenuEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QComboBox::inputMethodEvent(class QInputMethodEvent *)" (?inputMethodEvent@QComboBox@@MEAAXPEAVQInputMethodEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual struct QMetaObject const * __cdecl QWidget::metaObject(void)const " (?metaObject@QWidget@@UEBAPEBUQMetaObject@@XZ)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual void * __cdecl QWidget::qt_metacast(char const *)" (?qt_metacast@QWidget@@UEAAPEAXPEBD@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual int __cdecl QWidget::qt_metacall(enum QMetaObject::Call,int,void * *)" (?qt_metacall@QWidget@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual class QSize __cdecl QWidget::sizeHint(void)const " (?sizeHint@QWidget@@UEBA?AVQSize@@XZ)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual class QSize __cdecl QWidget::minimumSizeHint(void)const " (?minimumSizeHint@QWidget@@UEBA?AVQSize@@XZ)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual int __cdecl QWidget::heightForWidth(int)const " (?heightForWidth@QWidget@@UEBAHH@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual bool __cdecl QWidget::event(class QEvent *)" (?event@QWidget@@MEAA_NPEAVQEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QWidget::mousePressEvent(class QMouseEvent *)" (?mousePressEvent@QWidget@@MEAAXPEAVQMouseEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QWidget::mouseReleaseEvent(class QMouseEvent *)" (?mouseReleaseEvent@QWidget@@MEAAXPEAVQMouseEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QWidget::mouseMoveEvent(class QMouseEvent *)" (?mouseMoveEvent@QWidget@@MEAAXPEAVQMouseEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QWidget::wheelEvent(class QWheelEvent *)" (?wheelEvent@QWidget@@MEAAXPEAVQWheelEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QWidget::keyPressEvent(class QKeyEvent *)" (?keyPressEvent@QWidget@@MEAAXPEAVQKeyEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QWidget::focusInEvent(class QFocusEvent *)" (?focusInEvent@QWidget@@MEAAXPEAVQFocusEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QWidget::focusOutEvent(class QFocusEvent *)" (?focusOutEvent@QWidget@@MEAAXPEAVQFocusEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QWidget::paintEvent(class QPaintEvent *)" (?paintEvent@QWidget@@MEAAXPEAVQPaintEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QWidget::contextMenuEvent(class QContextMenuEvent *)" (?contextMenuEvent@QWidget@@MEAAXPEAVQContextMenuEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QWidget::changeEvent(class QEvent *)" (?changeEvent@QWidget@@MEAAXPEAVQEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual bool __cdecl QWidget::focusNextPrevChild(bool)" (?focusNextPrevChild@QWidget@@MEAA_N_N@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual struct QMetaObject const * __cdecl QProgressBar::metaObject(void)const " (?metaObject@QProgressBar@@UEBAPEBUQMetaObject@@XZ)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual void * __cdecl QProgressBar::qt_metacast(char const *)" (?qt_metacast@QProgressBar@@UEAAPEAXPEBD@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual int __cdecl QProgressBar::qt_metacall(enum QMetaObject::Call,int,void * *)" (?qt_metacall@QProgressBar@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual class QString __cdecl QProgressBar::text(void)const " (?text@QProgressBar@@UEBA?AVQString@@XZ)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual class QSize __cdecl QProgressBar::sizeHint(void)const " (?sizeHint@QProgressBar@@UEBA?AVQSize@@XZ)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual class QSize __cdecl QProgressBar::minimumSizeHint(void)const " (?minimumSizeHint@QProgressBar@@UEBA?AVQSize@@XZ)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual bool __cdecl QProgressBar::event(class QEvent *)" (?event@QProgressBar@@MEAA_NPEAVQEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QProgressBar::paintEvent(class QPaintEvent *)" (?paintEvent@QProgressBar@@MEAAXPEAVQPaintEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual struct QMetaObject const * __cdecl QHBoxLayout::metaObject(void)const " (?metaObject@QHBoxLayout@@UEBAPEBUQMetaObject@@XZ)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual void * __cdecl QHBoxLayout::qt_metacast(char const *)" (?qt_metacast@QHBoxLayout@@UEAAPEAXPEBD@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual int __cdecl QHBoxLayout::qt_metacall(enum QMetaObject::Call,int,void * *)" (?qt_metacall@QHBoxLayout@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual class QSize __cdecl QDialog::sizeHint(void)const " (?sizeHint@QDialog@@UEBA?AVQSize@@XZ)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual class QSize __cdecl QDialog::minimumSizeHint(void)const " (?minimumSizeHint@QDialog@@UEBA?AVQSize@@XZ)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual void __cdecl QDialog::open(void)" (?open@QDialog@@UEAAXXZ)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual int __cdecl QDialog::exec(void)" (?exec@QDialog@@UEAAHXZ)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual void __cdecl QDialog::reject(void)" (?reject@QDialog@@UEAAXXZ)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QDialog::keyPressEvent(class QKeyEvent *)" (?keyPressEvent@QDialog@@MEAAXPEAVQKeyEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QDialog::closeEvent(class QCloseEvent *)" (?closeEvent@QDialog@@MEAAXPEAVQCloseEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QDialog::showEvent(class QShowEvent *)" (?showEvent@QDialog@@MEAAXPEAVQShowEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QDialog::resizeEvent(class QResizeEvent *)" (?resizeEvent@QDialog@@MEAAXPEAVQResizeEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QDialog::contextMenuEvent(class QContextMenuEvent *)" (?contextMenuEvent@QDialog@@MEAAXPEAVQContextMenuEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual bool __cdecl QDialog::eventFilter(class QObject *,class QEvent *)" (?eventFilter@QDialog@@MEAA_NPEAVQObject@@PEAVQEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual struct QMetaObject const * __cdecl QToolBar::metaObject(void)const " (?metaObject@QToolBar@@UEBAPEBUQMetaObject@@XZ)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual void * __cdecl QToolBar::qt_metacast(char const *)" (?qt_metacast@QToolBar@@UEAAPEAXPEBD@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual int __cdecl QToolBar::qt_metacall(enum QMetaObject::Call,int,void * *)" (?qt_metacall@QToolBar@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QToolBar::actionEvent(class QActionEvent *)" (?actionEvent@QToolBar@@MEAAXPEAVQActionEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QToolBar::changeEvent(class QEvent *)" (?changeEvent@QToolBar@@MEAAXPEAVQEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QToolBar::paintEvent(class QPaintEvent *)" (?paintEvent@QToolBar@@MEAAXPEAVQPaintEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual bool __cdecl QToolBar::event(class QEvent *)" (?event@QToolBar@@MEAA_NPEAVQEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual struct QMetaObject const * __cdecl QFileDialog::metaObject(void)const " (?metaObject@QFileDialog@@UEBAPEBUQMetaObject@@XZ)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual void * __cdecl QFileDialog::qt_metacast(char const *)" (?qt_metacast@QFileDialog@@UEAAPEAXPEBD@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual int __cdecl QFileDialog::qt_metacall(enum QMetaObject::Call,int,void * *)" (?qt_metacall@QFileDialog@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual void __cdecl QFileDialog::setVisible(bool)" (?setVisible@QFileDialog@@UEAAX_N@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QFileDialog::done(int)" (?done@QFileDialog@@MEAAXH@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QFileDialog::accept(void)" (?accept@QFileDialog@@MEAAXXZ)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QFileDialog::changeEvent(class QEvent *)" (?changeEvent@QFileDialog@@MEAAXPEAVQEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual class QMenu * __cdecl QMainWindow::createPopupMenu(void)" (?createPopupMenu@QMainWindow@@UEAAPEAVQMenu@@XZ)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QMainWindow::contextMenuEvent(class QContextMenuEvent *)" (?contextMenuEvent@QMainWindow@@MEAAXPEAVQContextMenuEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual bool __cdecl QMainWindow::event(class QEvent *)" (?event@QMainWindow@@MEAA_NPEAVQEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QAbstractButton::checkStateSet(void)" (?checkStateSet@QAbstractButton@@MEAAXXZ)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QAbstractButton::nextCheckState(void)" (?nextCheckState@QAbstractButton@@MEAAXXZ)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QAbstractButton::keyReleaseEvent(class QKeyEvent *)" (?keyReleaseEvent@QAbstractButton@@MEAAXPEAVQKeyEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QAbstractButton::mousePressEvent(class QMouseEvent *)" (?mousePressEvent@QAbstractButton@@MEAAXPEAVQMouseEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QAbstractButton::mouseReleaseEvent(class QMouseEvent *)" (?mouseReleaseEvent@QAbstractButton@@MEAAXPEAVQMouseEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QAbstractButton::mouseMoveEvent(class QMouseEvent *)" (?mouseMoveEvent@QAbstractButton@@MEAAXPEAVQMouseEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QAbstractButton::changeEvent(class QEvent *)" (?changeEvent@QAbstractButton@@MEAAXPEAVQEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QAbstractButton::timerEvent(class QTimerEvent *)" (?timerEvent@QAbstractButton@@MEAAXPEAVQTimerEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual struct QMetaObject const * __cdecl QStatusBar::metaObject(void)const " (?metaObject@QStatusBar@@UEBAPEBUQMetaObject@@XZ)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual void * __cdecl QStatusBar::qt_metacast(char const *)" (?qt_metacast@QStatusBar@@UEAAPEAXPEBD@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual int __cdecl QStatusBar::qt_metacall(enum QMetaObject::Call,int,void * *)" (?qt_metacall@QStatusBar@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QStatusBar::showEvent(class QShowEvent *)" (?showEvent@QStatusBar@@MEAAXPEAVQShowEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QStatusBar::paintEvent(class QPaintEvent *)" (?paintEvent@QStatusBar@@MEAAXPEAVQPaintEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QStatusBar::resizeEvent(class QResizeEvent *)" (?resizeEvent@QStatusBar@@MEAAXPEAVQResizeEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual bool __cdecl QStatusBar::event(class QEvent *)" (?event@QStatusBar@@MEAA_NPEAVQEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual class QRect __cdecl QLayout::geometry(void)const " (?geometry@QLayout@@UEBA?AVQRect@@XZ)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual int __cdecl QLayout::indexOf(class QWidget *)const " (?indexOf@QLayout@@UEBAHPEAVQWidget@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual bool __cdecl QLayout::isEmpty(void)const " (?isEmpty@QLayout@@UEBA_NXZ)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual class QFlags<enum QSizePolicy::ControlType> __cdecl QLayout::controlTypes(void)const " (?controlTypes@QLayout@@UEBA?AV?$QFlags@W4ControlType@QSizePolicy@@@@XZ)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual class QLayout * __cdecl QLayout::layout(void)" (?layout@QLayout@@UEAAPEAV1@XZ)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QLayout::childEvent(class QChildEvent *)" (?childEvent@QLayout@@MEAAXPEAVQChildEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual struct QMetaObject const * __cdecl QPushButton::metaObject(void)const " (?metaObject@QPushButton@@UEBAPEBUQMetaObject@@XZ)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual void * __cdecl QPushButton::qt_metacast(char const *)" (?qt_metacast@QPushButton@@UEAAPEAXPEBD@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual int __cdecl QPushButton::qt_metacall(enum QMetaObject::Call,int,void * *)" (?qt_metacall@QPushButton@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual class QSize __cdecl QPushButton::sizeHint(void)const " (?sizeHint@QPushButton@@UEBA?AVQSize@@XZ)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual class QSize __cdecl QPushButton::minimumSizeHint(void)const " (?minimumSizeHint@QPushButton@@UEBA?AVQSize@@XZ)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual bool __cdecl QPushButton::event(class QEvent *)" (?event@QPushButton@@MEAA_NPEAVQEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QPushButton::paintEvent(class QPaintEvent *)" (?paintEvent@QPushButton@@MEAAXPEAVQPaintEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QPushButton::keyPressEvent(class QKeyEvent *)" (?keyPressEvent@QPushButton@@MEAAXPEAVQKeyEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QPushButton::focusInEvent(class QFocusEvent *)" (?focusInEvent@QPushButton@@MEAAXPEAVQFocusEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QPushButton::focusOutEvent(class QFocusEvent *)" (?focusOutEvent@QPushButton@@MEAAXPEAVQFocusEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual bool __cdecl QPushButton::hitButton(class QPoint const &)const " (?hitButton@QPushButton@@MEBA_NAEBVQPoint@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual class QWidget * __cdecl QLayoutItem::widget(void)" (?widget@QLayoutItem@@UEAAPEAVQWidget@@XZ)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual class QSpacerItem * __cdecl QLayoutItem::spacerItem(void)" (?spacerItem@QLayoutItem@@UEAAPEAVQSpacerItem@@XZ)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual struct QMetaObject const * __cdecl QGridLayout::metaObject(void)const " (?metaObject@QGridLayout@@UEBAPEBUQMetaObject@@XZ)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual void * __cdecl QGridLayout::qt_metacast(char const *)" (?qt_metacast@QGridLayout@@UEAAPEAXPEBD@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual int __cdecl QGridLayout::qt_metacall(enum QMetaObject::Call,int,void * *)" (?qt_metacall@QGridLayout@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual class QSize __cdecl QGridLayout::sizeHint(void)const " (?sizeHint@QGridLayout@@UEBA?AVQSize@@XZ)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual class QSize __cdecl QGridLayout::minimumSize(void)const " (?minimumSize@QGridLayout@@UEBA?AVQSize@@XZ)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual class QSize __cdecl QGridLayout::maximumSize(void)const " (?maximumSize@QGridLayout@@UEBA?AVQSize@@XZ)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual bool __cdecl QGridLayout::hasHeightForWidth(void)const " (?hasHeightForWidth@QGridLayout@@UEBA_NXZ)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual int __cdecl QGridLayout::heightForWidth(int)const " (?heightForWidth@QGridLayout@@UEBAHH@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual int __cdecl QGridLayout::minimumHeightForWidth(int)const " (?minimumHeightForWidth@QGridLayout@@UEBAHH@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual class QFlags<enum Qt::Orientation> __cdecl QGridLayout::expandingDirections(void)const " (?expandingDirections@QGridLayout@@UEBA?AV?$QFlags@W4Orientation@Qt@@@@XZ)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual void __cdecl QGridLayout::invalidate(void)" (?invalidate@QGridLayout@@UEAAXXZ)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual class QLayoutItem * __cdecl QGridLayout::itemAt(int)const " (?itemAt@QGridLayout@@UEBAPEAVQLayoutItem@@H@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual class QLayoutItem * __cdecl QGridLayout::takeAt(int)" (?takeAt@QGridLayout@@UEAAPEAVQLayoutItem@@H@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual int __cdecl QGridLayout::count(void)const " (?count@QGridLayout@@UEBAHXZ)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual void __cdecl QGridLayout::setGeometry(class QRect const &)" (?setGeometry@QGridLayout@@UEAAXAEBVQRect@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QGridLayout::addItem(class QLayoutItem *)" (?addItem@QGridLayout@@MEAAXPEAVQLayoutItem@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual struct QMetaObject const * __cdecl QLineEdit::metaObject(void)const " (?metaObject@QLineEdit@@UEBAPEBUQMetaObject@@XZ)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual void * __cdecl QLineEdit::qt_metacast(char const *)" (?qt_metacast@QLineEdit@@UEAAPEAXPEBD@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual int __cdecl QLineEdit::qt_metacall(enum QMetaObject::Call,int,void * *)" (?qt_metacall@QLineEdit@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual class QSize __cdecl QLineEdit::sizeHint(void)const " (?sizeHint@QLineEdit@@UEBA?AVQSize@@XZ)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual class QSize __cdecl QLineEdit::minimumSizeHint(void)const " (?minimumSizeHint@QLineEdit@@UEBA?AVQSize@@XZ)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QLineEdit::mousePressEvent(class QMouseEvent *)" (?mousePressEvent@QLineEdit@@MEAAXPEAVQMouseEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QLineEdit::mouseMoveEvent(class QMouseEvent *)" (?mouseMoveEvent@QLineEdit@@MEAAXPEAVQMouseEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QLineEdit::mouseReleaseEvent(class QMouseEvent *)" (?mouseReleaseEvent@QLineEdit@@MEAAXPEAVQMouseEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QLineEdit::mouseDoubleClickEvent(class QMouseEvent *)" (?mouseDoubleClickEvent@QLineEdit@@MEAAXPEAVQMouseEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QLineEdit::keyPressEvent(class QKeyEvent *)" (?keyPressEvent@QLineEdit@@MEAAXPEAVQKeyEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QLineEdit::focusInEvent(class QFocusEvent *)" (?focusInEvent@QLineEdit@@MEAAXPEAVQFocusEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QLineEdit::focusOutEvent(class QFocusEvent *)" (?focusOutEvent@QLineEdit@@MEAAXPEAVQFocusEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QLineEdit::paintEvent(class QPaintEvent *)" (?paintEvent@QLineEdit@@MEAAXPEAVQPaintEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QLineEdit::dragEnterEvent(class QDragEnterEvent *)" (?dragEnterEvent@QLineEdit@@MEAAXPEAVQDragEnterEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QLineEdit::dragMoveEvent(class QDragMoveEvent *)" (?dragMoveEvent@QLineEdit@@MEAAXPEAVQDragMoveEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QLineEdit::dragLeaveEvent(class QDragLeaveEvent *)" (?dragLeaveEvent@QLineEdit@@MEAAXPEAVQDragLeaveEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QLineEdit::dropEvent(class QDropEvent *)" (?dropEvent@QLineEdit@@MEAAXPEAVQDropEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QLineEdit::changeEvent(class QEvent *)" (?changeEvent@QLineEdit@@MEAAXPEAVQEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QLineEdit::contextMenuEvent(class QContextMenuEvent *)" (?contextMenuEvent@QLineEdit@@MEAAXPEAVQContextMenuEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "protected: virtual void __cdecl QLineEdit::inputMethodEvent(class QInputMethodEvent *)" (?inputMethodEvent@QLineEdit@@MEAAXPEAVQInputMethodEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual class QVariant __cdecl QLineEdit::inputMethodQuery(enum Qt::InputMethodQuery)const " (?inputMethodQuery@QLineEdit@@UEBA?AVQVariant@@W4InputMethodQuery@Qt@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual bool __cdecl QLineEdit::event(class QEvent *)" (?event@QLineEdit@@UEAA_NPEAVQEvent@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual void __cdecl QBoxLayout::addItem(class QLayoutItem *)" (?addItem@QBoxLayout@@UEAAXPEAVQLayoutItem@@@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual class QSize __cdecl QBoxLayout::sizeHint(void)const " (?sizeHint@QBoxLayout@@UEBA?AVQSize@@XZ)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual class QSize __cdecl QBoxLayout::minimumSize(void)const " (?minimumSize@QBoxLayout@@UEBA?AVQSize@@XZ)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual class QSize __cdecl QBoxLayout::maximumSize(void)const " (?maximumSize@QBoxLayout@@UEBA?AVQSize@@XZ)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual bool __cdecl QBoxLayout::hasHeightForWidth(void)const " (?hasHeightForWidth@QBoxLayout@@UEBA_NXZ)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual int __cdecl QBoxLayout::heightForWidth(int)const " (?heightForWidth@QBoxLayout@@UEBAHH@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual int __cdecl QBoxLayout::minimumHeightForWidth(int)const " (?minimumHeightForWidth@QBoxLayout@@UEBAHH@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual class QFlags<enum Qt::Orientation> __cdecl QBoxLayout::expandingDirections(void)const " (?expandingDirections@QBoxLayout@@UEBA?AV?$QFlags@W4Orientation@Qt@@@@XZ)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual void __cdecl QBoxLayout::invalidate(void)" (?invalidate@QBoxLayout@@UEAAXXZ)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual class QLayoutItem * __cdecl QBoxLayout::itemAt(int)const " (?itemAt@QBoxLayout@@UEBAPEAVQLayoutItem@@H@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual class QLayoutItem * __cdecl QBoxLayout::takeAt(int)" (?takeAt@QBoxLayout@@UEAAPEAVQLayoutItem@@H@Z)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual int __cdecl QBoxLayout::count(void)const " (?count@QBoxLayout@@UEBAHXZ)
+MainWindow.obj : error LNK2001: 无法解析的外部符号 "public: virtual void __cdecl QBoxLayout::setGeometry(class QRect const &)" (?setGeometry@QBoxLayout@@UEAAXAEBVQRect@@@Z)
+main.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __cdecl QApplication::QApplication(int &,char * *,int)" (__imp_??0QApplication@@QEAA@AEAHPEAPEADH@Z)，函数 main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: virtual __cdecl QApplication::~QApplication(void)" (__imp_??1QApplication@@UEAA@XZ)，函数 main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: static void __cdecl QApplication::setStyle(class QStyle *)" (__imp_?setStyle@QApplication@@SAXPEAVQStyle@@@Z)，函数 main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: static int __cdecl QApplication::exec(void)" (__imp_?exec@QApplication@@SAHXZ)，函数 main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: static class QStyle * __cdecl QStyleFactory::create(class QString const &)" (__imp_?create@QStyleFactory@@SAPEAVQStyle@@AEBVQString@@@Z)，函数 main 中引用了该符号
+    已定义且可能匹配的符号上的提示:
+      "__declspec(dllimport) public: void __cdecl cv::Mat::create(int,int const *,int)" (__imp_?create@Mat@cv@@QEAAXHPEBHH@Z)
+moc_MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: struct QMetaObject * __cdecl QObjectData::dynamicMetaObject(void)const " (__imp_?dynamicMetaObject@QObjectData@@QEBAPEAUQMetaObject@@XZ)，函数 "public: virtual struct QMetaObject const * __cdecl MainWindow::metaObject(void)const " (?metaObject@MainWindow@@UEBAPEBUQMetaObject@@XZ) 中引用了该符号
+moc_QImageLabel.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: struct QMetaObject * __cdecl QObjectData::dynamicMetaObject(void)const " (__imp_?dynamicMetaObject@QObjectData@@QEBAPEAUQMetaObject@@XZ)
+moc_QImageLable.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: struct QMetaObject * __cdecl QObjectData::dynamicMetaObject(void)const " (__imp_?dynamicMetaObject@QObjectData@@QEBAPEAUQMetaObject@@XZ)
+moc_dataProcess.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: struct QMetaObject * __cdecl QObjectData::dynamicMetaObject(void)const " (__imp_?dynamicMetaObject@QObjectData@@QEBAPEAUQMetaObject@@XZ)
+moc_MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: virtual void * __cdecl QMainWindow::qt_metacast(char const *)" (__imp_?qt_metacast@QMainWindow@@UEAAPEAXPEBD@Z)，函数 "public: virtual void * __cdecl MainWindow::qt_metacast(char const *)" (?qt_metacast@MainWindow@@UEAAPEAXPEBD@Z) 中引用了该符号
+moc_MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: virtual int __cdecl QMainWindow::qt_metacall(enum QMetaObject::Call,int,void * *)" (__imp_?qt_metacall@QMainWindow@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z)，函数 "public: virtual int __cdecl MainWindow::qt_metacall(enum QMetaObject::Call,int,void * *)" (?qt_metacall@MainWindow@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z) 中引用了该符号
+moc_MainWindow.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: static struct QMetaObject const QMainWindow::staticMetaObject" (__imp_?staticMetaObject@QMainWindow@@2UQMetaObject@@B)，函数 "public: static struct QMetaObject const * __cdecl QMetaObject::staticMetaObject<&public: static struct QMetaObject const QMainWindow::staticMetaObject>(void)" (??$staticMetaObject@$1?staticMetaObject@QMainWindow@@2UQMetaObject@@B@QMetaObject@@SAPEBU0@XZ) 中引用了该符号
+moc_QImageLabel.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: virtual void * __cdecl QLabel::qt_metacast(char const *)" (__imp_?qt_metacast@QLabel@@UEAAPEAXPEBD@Z)，函数 "public: virtual void * __cdecl QImageLabel::qt_metacast(char const *)" (?qt_metacast@QImageLabel@@UEAAPEAXPEBD@Z) 中引用了该符号
+moc_QImageLable.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: virtual void * __cdecl QLabel::qt_metacast(char const *)" (__imp_?qt_metacast@QLabel@@UEAAPEAXPEBD@Z)
+moc_QImageLabel.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: virtual int __cdecl QLabel::qt_metacall(enum QMetaObject::Call,int,void * *)" (__imp_?qt_metacall@QLabel@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z)，函数 "public: virtual int __cdecl QImageLabel::qt_metacall(enum QMetaObject::Call,int,void * *)" (?qt_metacall@QImageLabel@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z) 中引用了该符号
+moc_QImageLable.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: virtual int __cdecl QLabel::qt_metacall(enum QMetaObject::Call,int,void * *)" (__imp_?qt_metacall@QLabel@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z)
+moc_QImageLabel.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: static struct QMetaObject const QLabel::staticMetaObject" (__imp_?staticMetaObject@QLabel@@2UQMetaObject@@B)，函数 "public: static struct QMetaObject const * __cdecl QMetaObject::staticMetaObject<&public: static struct QMetaObject const QLabel::staticMetaObject>(void)" (??$staticMetaObject@$1?staticMetaObject@QLabel@@2UQMetaObject@@B@QMetaObject@@SAPEBU0@XZ) 中引用了该符号
+moc_QImageLable.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) public: static struct QMetaObject const QLabel::staticMetaObject" (__imp_?staticMetaObject@QLabel@@2UQMetaObject@@B)
+moc_dataProcess.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: virtual void * __cdecl QObject::qt_metacast(char const *)" (__imp_?qt_metacast@QObject@@UEAAPEAXPEBD@Z)，函数 "public: virtual void * __cdecl DataProcess::qt_metacast(char const *)" (?qt_metacast@DataProcess@@UEAAPEAXPEBD@Z) 中引用了该符号
+moc_dataProcess.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: virtual int __cdecl QObject::qt_metacall(enum QMetaObject::Call,int,void * *)" (__imp_?qt_metacall@QObject@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z)，函数 "public: virtual int __cdecl DataProcess::qt_metacall(enum QMetaObject::Call,int,void * *)" (?qt_metacall@DataProcess@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z) 中引用了该符号
+moc_dataProcess.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: static struct QMetaObject const QObject::staticMetaObject" (__imp_?staticMetaObject@QObject@@2UQMetaObject@@B)，函数 "public: static struct QMetaObject const * __cdecl QMetaObject::staticMetaObject<&public: static struct QMetaObject const QObject::staticMetaObject>(void)" (??$staticMetaObject@$1?staticMetaObject@QObject@@2UQMetaObject@@B@QMetaObject@@SAPEBU0@XZ) 中引用了该符号
+itksys-5.0.lib(SystemTools.obj) : error LNK2019: 无法解析的外部符号 __imp_OpenProcessToken，函数 "bool __cdecl itksys::IsJunction(class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > const &)" (?IsJunction@itksys@@YA_NAEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z) 中引用了该符号
+itksys-5.0.lib(SystemTools.obj) : error LNK2019: 无法解析的外部符号 __imp_AdjustTokenPrivileges，函数 "bool __cdecl itksys::IsJunction(class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > const &)" (?IsJunction@itksys@@YA_NAEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z) 中引用了该符号
+itksys-5.0.lib(SystemTools.obj) : error LNK2019: 无法解析的外部符号 __imp_LookupPrivilegeValueW，函数 "bool __cdecl itksys::IsJunction(class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > const &)" (?IsJunction@itksys@@YA_NAEBV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@@Z) 中引用了该符号
+itksys-5.0.lib(SystemTools.obj) : error LNK2019: 无法解析的外部符号 __imp_RegCloseKey，函数 "public: static bool __cdecl itksys::SystemTools::DeleteRegistryValue(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,enum itksys::SystemTools::KeyWOW64)" (?DeleteRegistryValue@SystemTools@itksys@@SA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@W4KeyWOW64@12@@Z) 中引用了该符号
+itksys-5.0.lib(SystemTools.obj) : error LNK2019: 无法解析的外部符号 __imp_RegCreateKeyExW，函数 "public: static bool __cdecl itksys::SystemTools::WriteRegistryValue(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,enum itksys::SystemTools::KeyWOW64)" (?WriteRegistryValue@SystemTools@itksys@@SA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0W4KeyWOW64@12@@Z) 中引用了该符号
+itksys-5.0.lib(SystemTools.obj) : error LNK2019: 无法解析的外部符号 __imp_RegDeleteValueW，函数 "public: static bool __cdecl itksys::SystemTools::DeleteRegistryValue(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,enum itksys::SystemTools::KeyWOW64)" (?DeleteRegistryValue@SystemTools@itksys@@SA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@W4KeyWOW64@12@@Z) 中引用了该符号
+itksys-5.0.lib(SystemTools.obj) : error LNK2019: 无法解析的外部符号 __imp_RegEnumKeyW，函数 "public: static bool __cdecl itksys::SystemTools::GetRegistrySubKeys(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::vector<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::allocator<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > > &,enum itksys::SystemTools::KeyWOW64)" (?GetRegistrySubKeys@SystemTools@itksys@@SA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEAV?$vector@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$allocator@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@@4@W4KeyWOW64@12@@Z) 中引用了该符号
+itksys-5.0.lib(SystemTools.obj) : error LNK2019: 无法解析的外部符号 __imp_RegOpenKeyExW，函数 "public: static bool __cdecl itksys::SystemTools::DeleteRegistryValue(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,enum itksys::SystemTools::KeyWOW64)" (?DeleteRegistryValue@SystemTools@itksys@@SA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@W4KeyWOW64@12@@Z) 中引用了该符号
+itksys-5.0.lib(SystemTools.obj) : error LNK2019: 无法解析的外部符号 __imp_RegQueryValueExW，函数 "public: static bool __cdecl itksys::SystemTools::ReadRegistryValue(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &,enum itksys::SystemTools::KeyWOW64)" (?ReadRegistryValue@SystemTools@itksys@@SA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEAV34@W4KeyWOW64@12@@Z) 中引用了该符号
+itksys-5.0.lib(SystemTools.obj) : error LNK2019: 无法解析的外部符号 __imp_RegSetValueExW，函数 "public: static bool __cdecl itksys::SystemTools::WriteRegistryValue(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,enum itksys::SystemTools::KeyWOW64)" (?WriteRegistryValue@SystemTools@itksys@@SA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0W4KeyWOW64@12@@Z) 中引用了该符号
+itksys-5.0.lib(EncodingCXX.obj) : error LNK2019: 无法解析的外部符号 __imp_CommandLineToArgvW，函数 "public: static class itksys::Encoding::CommandLineArguments __cdecl itksys::Encoding::CommandLineArguments::Main(int,char const * const *)" (?Main@CommandLineArguments@Encoding@itksys@@SA?AV123@HPEBQEBD@Z) 中引用了该符号
+F:\MedicalRegistrationPlatform\x64\Debug\MedicalRegistrationPlatform.exe : fatal error LNK1120: 435 个无法解析的外部命令

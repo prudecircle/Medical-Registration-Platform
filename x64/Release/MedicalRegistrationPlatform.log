@@ -1,0 +1,7 @@
+﻿  MainWindow.cpp
+  device_functions.h is an internal header file and must not be used directly.  This file will be removed in a future CUDA release.  Please use cuda_runtime_api.h or cuda_runtime.h instead.
+F:\MedicalRegistrationPlatform\MainWindow.h(54,1): warning C4005: “PI”: 宏重定义
+E:\Halcon10.0\include\HConst.h(145): message : 参见“PI”的前一个定义
+F:\MedicalRegistrationPlatform\MainWindow.h(60,1): warning C4005: “MIN”: 宏重定义
+F:\MedicalRegistrationPlatform\MedicalRegistrationPlatform\include\opencv2\core\cvdef.h(407): message : 参见“MIN”的前一个定义
+  MedicalRegistrationPlatform.vcxproj -> F:\MedicalRegistrationPlatform\x64\Release\MedicalRegistrationPlatform.exe

@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{942DE962-260F-42CC-BFA2-71A5FADD8E8E}</ProjectGuid>
+    <Keyword>QtVS_v304</Keyword>
+    <WindowsTargetPlatformVersion Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">10.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">10.0.19041.0</WindowsTargetPlatformVersion>
+    <QtMsBuild Condition="'$(QtMsBuild)'=='' OR !Exists('$(QtMsBuild)\qt.targets')">$(MSBuildProjectDirectory)\QtMsBuild</QtMsBuild>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <PlatformToolset>v143</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <PlatformToolset>v143</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Condition="Exists('$(QtMsBuild)\qt_defaults.props')">
+    <Import Project="$(QtMsBuild)\qt_defaults.props" />
+  </ImportGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'" Label="QtSettings">
+    <QtInstall>5.15.1_msvc2019_64</QtInstall>
+    <QtModules>core;gui;widgets;concurrent</QtModules>
+    <QtBuildConfig>debug</QtBuildConfig>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'" Label="QtSettings">
+    <QtInstall>5.15.1_msvc2019_64</QtInstall>
+    <QtModules>core;gui;widgets;concurrent</QtModules>
+    <QtBuildConfig>release</QtBuildConfig>
+  </PropertyGroup>
+  <Target Name="QtMsBuildNotFound" BeforeTargets="CustomBuild;ClCompile" Condition="!Exists('$(QtMsBuild)\qt.targets') or !Exists('$(QtMsBuild)\qt.props')">
+    <Message Importance="High" Text="QtMsBuild: could not locate qt.targets, qt.props; project may not build correctly." />
+  </Target>
+  <ImportGroup Label="ExtensionSettings">
+    <Import Project="$(VCTargetsPath)\BuildCustomizations\CUDA 11.6.props" />
+  </ImportGroup>
+  <ImportGroup Label="Shared" />
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    <Import Project="$(QtMsBuild)\Qt.props" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    <Import Project="$(QtMsBuild)\Qt.props" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <IncludePath>F:\MedicalRegistrationPlatform\MedicalRegistrationPlatform\include;E:\Opencv4.0\opencv\build\include\opencv2;E:\Opencv4.0\opencv\build\include;E:\Halcon10.0\include;E:\Halcon10.0\include\cpp;$(IncludePath)</IncludePath>
+    <LibraryPath>F:\MedicalRegistrationPlatform\MedicalRegistrationPlatform\lib;E:\Opencv4.0\opencv\build\x64\vc15\lib;E:\Halcon10.0\lib\x64-win64;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <IncludePath>F:\MedicalRegistrationPlatform\MedicalRegistrationPlatform\include;E:\Opencv4.0\opencv\build\include;E:\Opencv4.0\opencv\build\include\opencv2;E:\Halcon10.0\include;E:\Halcon10.0\include\cpp;E:\opencv4.6\opencv\build\include;E:\opencv4.6\opencv\build\include\opencv2;$(IncludePath)</IncludePath>
+    <LibraryPath>F:\MedicalRegistrationPlatform\MedicalRegistrationPlatform\lib;E:\Opencv4.0\opencv\build\x64\vc15\lib;E:\Halcon10.0\lib\x64-win64;E:\opencv4.6\opencv\build\x64\vc15\lib;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Link>
+      <AdditionalDependencies>OpenCL.lib;opencv_world400.lib;opencv_world400d.lib;python37.lib;ITKBiasCorrection-5.0.lib;ITKCommon-5.0.lib;ITKDICOMParser-5.0.lib;itkdouble-conversion-5.0.lib;ITKEXPAT-5.0.lib;itkgdcmcharls-5.0.lib;itkgdcmCommon-5.0.lib;itkgdcmDICT-5.0.lib;itkgdcmDSED-5.0.lib;itkgdcmIOD-5.0.lib;itkgdcmjpeg12-5.0.lib;itkgdcmjpeg16-5.0.lib;itkgdcmjpeg8-5.0.lib;itkgdcmMEXD-5.0.lib;itkgdcmMSFF-5.0.lib;itkgdcmopenjp2-5.0.lib;itkgdcmsocketxx-5.0.lib;ITKgiftiio-5.0.lib;ITKIOBioRad-5.0.lib;ITKIOBMP-5.0.lib;ITKIOBruker-5.0.lib;ITKIOCSV-5.0.lib;ITKIOGDCM-5.0.lib;ITKIOGE-5.0.lib;ITKIOGIPL-5.0.lib;ITKIOHDF5-5.0.lib;ITKIOImageBase-5.0.lib;ITKIOIPL-5.0.lib;ITKIOJPEG-5.0.lib;ITKIOJPEG2000-5.0.lib;ITKIOLSM-5.0.lib;ITKIOMeshBase-5.0.lib;ITKIOMeshBYU-5.0.lib;ITKIOMeshFreeSurfer-5.0.lib;ITKIOMeshGifti-5.0.lib;ITKIOMeshOBJ-5.0.lib;ITKIOMeshOFF-5.0.lib;ITKIOMeshVTK-5.0.lib;ITKIOMeta-5.0.lib;ITKIOMINC-5.0.lib;ITKIOMRC-5.0.lib;ITKIONIFTI-5.0.lib;ITKIONRRD-5.0.lib;ITKIOPNG-5.0.lib;ITKIOSiemens-5.0.lib;ITKIOSpatialObjects-5.0.lib;ITKIOStimulate-5.0.lib;ITKIOTIFF-5.0.lib;ITKIOTransformBase-5.0.lib;ITKIOTransformHDF5-5.0.lib;ITKIOTransformInsightLegacy-5.0.lib;ITKIOTransformMatlab-5.0.lib;ITKIOVTK-5.0.lib;ITKIOXML-5.0.lib;itkjpeg-5.0.lib;ITKKLMRegionGrowing-5.0.lib;ITKLabelMap-5.0.lib;itklbfgs-5.0.lib;ITKMesh-5.0.lib;ITKMetaIO-5.0.lib;itkminc2-5.0.lib;itknetlib-5.0.lib;itkNetlibSlatec-5.0.lib;ITKniftiio-5.0.lib;ITKNrrdIO-5.0.lib;itkopenjpeg-5.0.lib;ITKOptimizers-5.0.lib;ITKOptimizersv4-5.0.lib;ITKPath-5.0.lib;itkpng-5.0.lib;ITKPolynomials-5.0.lib;ITKQuadEdgeMesh-5.0.lib;ITKSpatialObjects-5.0.lib;ITKStatistics-5.0.lib;itksys-5.0.lib;ITKTestKernel-5.0.lib;itktestlib-5.0.lib;itktiff-5.0.lib;ITKTransform-5.0.lib;ITKTransformFactory-5.0.lib;itkv3p_netlib-5.0.lib;itkvcl-5.0.lib;ITKVideoCore-5.0.lib;ITKVideoIO-5.0.lib;itkvnl-5.0.lib;ITKVNLInstantiation-5.0.lib;itkvnl_algo-5.0.lib;ITKVTK-5.0.lib;ITKWatersheds-5.0.lib;itkzlib-5.0.lib;ITKznz-5.0.lib;libitkhdf5_cpp_D.lib;libitkhdf5_D.lib;vtkChartsCore-8.2.lib;vtkCommonColor-8.2.lib;vtkCommonComputationalGeometry-8.2.lib;vtkCommonCore-8.2.lib;vtkCommonDataModel-8.2.lib;vtkCommonExecutionModel-8.2.lib;vtkCommonMath-8.2.lib;vtkCommonMisc-8.2.lib;vtkCommonSystem-8.2.lib;vtkCommonTransforms-8.2.lib;vtkDICOMParser-8.2.lib;vtkDomainsChemistry-8.2.lib;vtkDomainsChemistryOpenGL2-8.2.lib;vtkdoubleconversion-8.2.lib;vtkexodusII-8.2.lib;vtkexpat-8.2.lib;vtkFiltersAMR-8.2.lib;vtkFiltersCore-8.2.lib;vtkFiltersExtraction-8.2.lib;vtkFiltersFlowPaths-8.2.lib;vtkFiltersGeneral-8.2.lib;vtkFiltersGeneric-8.2.lib;vtkFiltersGeometry-8.2.lib;vtkFiltersHybrid-8.2.lib;vtkFiltersHyperTree-8.2.lib;vtkFiltersImaging-8.2.lib;vtkFiltersModeling-8.2.lib;vtkFiltersParallel-8.2.lib;vtkFiltersParallelImaging-8.2.lib;vtkFiltersPoints-8.2.lib;vtkFiltersProgrammable-8.2.lib;vtkFiltersSelection-8.2.lib;vtkFiltersSMP-8.2.lib;vtkFiltersSources-8.2.lib;vtkFiltersStatistics-8.2.lib;vtkFiltersTexture-8.2.lib;vtkFiltersTopology-8.2.lib;vtkFiltersVerdict-8.2.lib;vtkfreetype-8.2.lib;vtkGeovisCore-8.2.lib;vtkgl2ps-8.2.lib;vtkglew-8.2.lib;vtkGUISupportQt-8.2.lib;vtkGUISupportQtSQL-8.2.lib;vtkhdf5-8.2.lib;vtkhdf5_hl-8.2.lib;vtkImagingColor-8.2.lib;vtkImagingCore-8.2.lib;vtkImagingFourier-8.2.lib;vtkImagingGeneral-8.2.lib;vtkImagingHybrid-8.2.lib;vtkImagingMath-8.2.lib;vtkImagingMorphological-8.2.lib;vtkImagingSources-8.2.lib;vtkImagingStatistics-8.2.lib;vtkImagingStencil-8.2.lib;vtkInfovisCore-8.2.lib;vtkInfovisLayout-8.2.lib;vtkInteractionImage-8.2.lib;vtkInteractionStyle-8.2.lib;vtkInteractionWidgets-8.2.lib;vtkIOAMR-8.2.lib;vtkIOAsynchronous-8.2.lib;vtkIOCityGML-8.2.lib;vtkIOCore-8.2.lib;vtkIOEnSight-8.2.lib;vtkIOExodus-8.2.lib;vtkIOExport-8.2.lib;vtkIOExportOpenGL2-8.2.lib;vtkIOExportPDF-8.2.lib;vtkIOGeometry-8.2.lib;vtkIOImage-8.2.lib;vtkIOImport-8.2.lib;vtkIOInfovis-8.2.lib;vtkIOLegacy-8.2.lib;vtkIOLSDyna-8.2.lib;vtkIOMINC-8.2.lib;vtkIOMovie-8.2.lib;vtkIONetCDF-8.2.lib;vtkIOParallel-8.2.lib;vtkIOParallelXML-8.2.lib;vtkIOPLY-8.2.lib;vtkIOSegY-8.2.lib;vtkIOSQL-8.2.lib;vtkIOTecplotTable-8.2.lib;vtkIOVeraOut-8.2.lib;vtkIOVideo-8.2.lib;vtkIOXML-8.2.lib;vtkIOXMLParser-8.2.lib;vtkjpeg-8.2.lib;vtkjsoncpp-8.2.lib;vtklibharu-8.2.lib;vtklibxml2-8.2.lib;vtklz4-8.2.lib;vtklzma-8.2.lib;vtkmetaio-8.2.lib;vtkNetCDF-8.2.lib;vtkogg-8.2.lib;vtkParallelCore-8.2.lib;vtkpng-8.2.lib;vtkproj-8.2.lib;vtkpugixml-8.2.lib;vtkRenderingAnnotation-8.2.lib;vtkRenderingContext2D-8.2.lib;vtkRenderingContextOpenGL2-8.2.lib;vtkRenderingCore-8.2.lib;vtkRenderingFreeType-8.2.lib;vtkRenderingGL2PSOpenGL2-8.2.lib;vtkRenderingImage-8.2.lib;vtkRenderingLabel-8.2.lib;vtkRenderingLOD-8.2.lib;vtkRenderingOpenGL2-8.2.lib;vtkRenderingQt-8.2.lib;vtkRenderingVolume-8.2.lib;vtkRenderingVolumeOpenGL2-8.2.lib;vtksqlite-8.2.lib;vtksys-8.2.lib;vtktheora-8.2.lib;vtktiff-8.2.lib;vtkverdict-8.2.lib;vtkViewsContext2D-8.2.lib;vtkViewsCore-8.2.lib;vtkViewsInfovis-8.2.lib;vtkViewsQt-8.2.lib;vtkzlib-8.2.lib;halconcpp.lib;odbc32.lib;odbccp32.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalLibraryDirectories>%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+    </Link>
+    <CudaCompile>
+      <CodeGeneration>compute_61,sm_61</CodeGeneration>
+      <TargetMachinePlatform>64</TargetMachinePlatform>
+    </CudaCompile>
+    <ClCompile>
+      <AdditionalIncludeDirectories>%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Link>
+      <AdditionalDependencies>OpenCL.lib;opencv_world400.lib;opencv_world400d.lib;python37.lib;ITKBiasCorrection-5.0.lib;ITKCommon-5.0.lib;ITKDICOMParser-5.0.lib;itkdouble-conversion-5.0.lib;ITKEXPAT-5.0.lib;itkgdcmcharls-5.0.lib;itkgdcmCommon-5.0.lib;itkgdcmDICT-5.0.lib;itkgdcmDSED-5.0.lib;itkgdcmIOD-5.0.lib;itkgdcmjpeg12-5.0.lib;itkgdcmjpeg16-5.0.lib;itkgdcmjpeg8-5.0.lib;itkgdcmMEXD-5.0.lib;itkgdcmMSFF-5.0.lib;itkgdcmopenjp2-5.0.lib;itkgdcmsocketxx-5.0.lib;ITKgiftiio-5.0.lib;ITKIOBioRad-5.0.lib;ITKIOBMP-5.0.lib;ITKIOBruker-5.0.lib;ITKIOCSV-5.0.lib;ITKIOGDCM-5.0.lib;ITKIOGE-5.0.lib;ITKIOGIPL-5.0.lib;ITKIOHDF5-5.0.lib;ITKIOImageBase-5.0.lib;ITKIOIPL-5.0.lib;ITKIOJPEG-5.0.lib;ITKIOJPEG2000-5.0.lib;ITKIOLSM-5.0.lib;ITKIOMeshBase-5.0.lib;ITKIOMeshBYU-5.0.lib;ITKIOMeshFreeSurfer-5.0.lib;ITKIOMeshGifti-5.0.lib;ITKIOMeshOBJ-5.0.lib;ITKIOMeshOFF-5.0.lib;ITKIOMeshVTK-5.0.lib;ITKIOMeta-5.0.lib;ITKIOMINC-5.0.lib;ITKIOMRC-5.0.lib;ITKIONIFTI-5.0.lib;ITKIONRRD-5.0.lib;ITKIOPNG-5.0.lib;ITKIOSiemens-5.0.lib;ITKIOSpatialObjects-5.0.lib;ITKIOStimulate-5.0.lib;ITKIOTIFF-5.0.lib;ITKIOTransformBase-5.0.lib;ITKIOTransformHDF5-5.0.lib;ITKIOTransformInsightLegacy-5.0.lib;ITKIOTransformMatlab-5.0.lib;ITKIOVTK-5.0.lib;ITKIOXML-5.0.lib;itkjpeg-5.0.lib;ITKKLMRegionGrowing-5.0.lib;ITKLabelMap-5.0.lib;itklbfgs-5.0.lib;ITKMesh-5.0.lib;ITKMetaIO-5.0.lib;itkminc2-5.0.lib;itknetlib-5.0.lib;itkNetlibSlatec-5.0.lib;ITKniftiio-5.0.lib;ITKNrrdIO-5.0.lib;itkopenjpeg-5.0.lib;ITKOptimizers-5.0.lib;ITKOptimizersv4-5.0.lib;ITKPath-5.0.lib;itkpng-5.0.lib;ITKPolynomials-5.0.lib;ITKQuadEdgeMesh-5.0.lib;ITKSpatialObjects-5.0.lib;ITKStatistics-5.0.lib;itksys-5.0.lib;ITKTestKernel-5.0.lib;itktestlib-5.0.lib;itktiff-5.0.lib;ITKTransform-5.0.lib;ITKTransformFactory-5.0.lib;itkv3p_netlib-5.0.lib;itkvcl-5.0.lib;ITKVideoCore-5.0.lib;ITKVideoIO-5.0.lib;itkvnl-5.0.lib;ITKVNLInstantiation-5.0.lib;itkvnl_algo-5.0.lib;ITKVTK-5.0.lib;ITKWatersheds-5.0.lib;itkzlib-5.0.lib;ITKznz-5.0.lib;libitkhdf5_cpp_D.lib;libitkhdf5_D.lib;vtkChartsCore-8.2.lib;vtkCommonColor-8.2.lib;vtkCommonComputationalGeometry-8.2.lib;vtkCommonCore-8.2.lib;vtkCommonDataModel-8.2.lib;vtkCommonExecutionModel-8.2.lib;vtkCommonMath-8.2.lib;vtkCommonMisc-8.2.lib;vtkCommonSystem-8.2.lib;vtkCommonTransforms-8.2.lib;vtkDICOMParser-8.2.lib;vtkDomainsChemistry-8.2.lib;vtkDomainsChemistryOpenGL2-8.2.lib;vtkdoubleconversion-8.2.lib;vtkexodusII-8.2.lib;vtkexpat-8.2.lib;vtkFiltersAMR-8.2.lib;vtkFiltersCore-8.2.lib;vtkFiltersExtraction-8.2.lib;vtkFiltersFlowPaths-8.2.lib;vtkFiltersGeneral-8.2.lib;vtkFiltersGeneric-8.2.lib;vtkFiltersGeometry-8.2.lib;vtkFiltersHybrid-8.2.lib;vtkFiltersHyperTree-8.2.lib;vtkFiltersImaging-8.2.lib;vtkFiltersModeling-8.2.lib;vtkFiltersParallel-8.2.lib;vtkFiltersParallelImaging-8.2.lib;vtkFiltersPoints-8.2.lib;vtkFiltersProgrammable-8.2.lib;vtkFiltersSelection-8.2.lib;vtkFiltersSMP-8.2.lib;vtkFiltersSources-8.2.lib;vtkFiltersStatistics-8.2.lib;vtkFiltersTexture-8.2.lib;vtkFiltersTopology-8.2.lib;vtkFiltersVerdict-8.2.lib;vtkfreetype-8.2.lib;vtkGeovisCore-8.2.lib;vtkgl2ps-8.2.lib;vtkglew-8.2.lib;vtkGUISupportQt-8.2.lib;vtkGUISupportQtSQL-8.2.lib;vtkhdf5-8.2.lib;vtkhdf5_hl-8.2.lib;vtkImagingColor-8.2.lib;vtkImagingCore-8.2.lib;vtkImagingFourier-8.2.lib;vtkImagingGeneral-8.2.lib;vtkImagingHybrid-8.2.lib;vtkImagingMath-8.2.lib;vtkImagingMorphological-8.2.lib;vtkImagingSources-8.2.lib;vtkImagingStatistics-8.2.lib;vtkImagingStencil-8.2.lib;vtkInfovisCore-8.2.lib;vtkInfovisLayout-8.2.lib;vtkInteractionImage-8.2.lib;vtkInteractionStyle-8.2.lib;vtkInteractionWidgets-8.2.lib;vtkIOAMR-8.2.lib;vtkIOAsynchronous-8.2.lib;vtkIOCityGML-8.2.lib;vtkIOCore-8.2.lib;vtkIOEnSight-8.2.lib;vtkIOExodus-8.2.lib;vtkIOExport-8.2.lib;vtkIOExportOpenGL2-8.2.lib;vtkIOExportPDF-8.2.lib;vtkIOGeometry-8.2.lib;vtkIOImage-8.2.lib;vtkIOImport-8.2.lib;vtkIOInfovis-8.2.lib;vtkIOLegacy-8.2.lib;vtkIOLSDyna-8.2.lib;vtkIOMINC-8.2.lib;vtkIOMovie-8.2.lib;vtkIONetCDF-8.2.lib;vtkIOParallel-8.2.lib;vtkIOParallelXML-8.2.lib;vtkIOPLY-8.2.lib;vtkIOSegY-8.2.lib;vtkIOSQL-8.2.lib;vtkIOTecplotTable-8.2.lib;vtkIOVeraOut-8.2.lib;vtkIOVideo-8.2.lib;vtkIOXML-8.2.lib;vtkIOXMLParser-8.2.lib;vtkjpeg-8.2.lib;vtkjsoncpp-8.2.lib;vtklibharu-8.2.lib;vtklibxml2-8.2.lib;vtklz4-8.2.lib;vtklzma-8.2.lib;vtkmetaio-8.2.lib;vtkNetCDF-8.2.lib;vtkogg-8.2.lib;vtkParallelCore-8.2.lib;vtkpng-8.2.lib;vtkproj-8.2.lib;vtkpugixml-8.2.lib;vtkRenderingAnnotation-8.2.lib;vtkRenderingContext2D-8.2.lib;vtkRenderingContextOpenGL2-8.2.lib;vtkRenderingCore-8.2.lib;vtkRenderingFreeType-8.2.lib;vtkRenderingGL2PSOpenGL2-8.2.lib;vtkRenderingImage-8.2.lib;vtkRenderingLabel-8.2.lib;vtkRenderingLOD-8.2.lib;vtkRenderingOpenGL2-8.2.lib;vtkRenderingQt-8.2.lib;vtkRenderingVolume-8.2.lib;vtkRenderingVolumeOpenGL2-8.2.lib;vtksqlite-8.2.lib;vtksys-8.2.lib;vtktheora-8.2.lib;vtktiff-8.2.lib;vtkverdict-8.2.lib;vtkViewsContext2D-8.2.lib;vtkViewsCore-8.2.lib;vtkViewsInfovis-8.2.lib;vtkViewsQt-8.2.lib;vtkzlib-8.2.lib;halconcpp.lib;odbc32.lib;odbccp32.lib</AdditionalDependencies>
+    </Link>
+    <CudaCompile>
+      <CodeGeneration>compute_61,sm_61</CodeGeneration>
+    </CudaCompile>
+    <ClCompile>
+      <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>G:\libtorch-win-shared-with-deps-1.5.0\libtorch\include;G:\libtorch-win-shared-with-deps-1.5.0\libtorch\include\torch\csrc\api\include;G:\libtorch-win-shared-with-deps-debug-1.5.0\libtorch\include;G:\libtorch-win-shared-with-deps-debug-1.5.0\libtorch\include\torch\csrc\api\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'" Label="Configuration">
+    <ClCompile>
+      <TreatWChar_tAsBuiltInType>true</TreatWChar_tAsBuiltInType>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+      <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
+      <Optimization>Disabled</Optimization>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+    </ClCompile>
+    <Link>
+      <SubSystem>NotSet</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'" Label="Configuration">
+    <ClCompile>
+      <TreatWChar_tAsBuiltInType>true</TreatWChar_tAsBuiltInType>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+      <DebugInformationFormat>None</DebugInformationFormat>
+      <Optimization>MaxSpeed</Optimization>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>false</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="QImageLabel.cpp" />
+    <QtRcc Include="MainWindow.qrc" />
+    <QtUic Include="MainWindow.ui" />
+    <QtMoc Include="MainWindow.h" />
+    <ClCompile Include="dataProcess.cpp" />
+    <ClCompile Include="itkDrr.cpp" />
+    <ClCompile Include="MainWindow.cpp" />
+    <ClCompile Include="main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CMAES.h" />
+    <ClInclude Include="EOparticle.h" />
+    <ClInclude Include="parameters.h" />
+    <ClInclude Include="Particle.h" />
+    <QtMoc Include="QImageLabel.h" />
+    <ClInclude Include="random.h" />
+    <ClInclude Include="timings.h" />
+    <ClInclude Include="utils.h" />
+    <QtMoc Include="QImageLable.h" />
+    <QtMoc Include="dataProcess.h" />
+    <ClInclude Include="itkDrr.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="CUDAdrr.cuh" />
+  </ItemGroup>
+  <ItemGroup>
+    <CudaCompile Include="CUDAdrr.cu" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Condition="Exists('$(QtMsBuild)\qt.targets')">
+    <Import Project="$(QtMsBuild)\qt.targets" />
+  </ImportGroup>
+  <ImportGroup Label="ExtensionTargets">
+    <Import Project="$(VCTargetsPath)\BuildCustomizations\CUDA 11.6.targets" />
+  </ImportGroup>
+</Project>
